@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "p\u00e1gina por p\u00e1gina"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "consulta \u00fanica"
+        },
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Exclu\u00eddos dados do campo \"%1$s\" em %2$d linha(s) de %3$d p\u00e1gina(s) usando o modelo \"%4$s\"."
+        },
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "Erro ao excluir dados do campo \"%1$s\", %2$d linha(s), %3$d p\u00e1gina(s) usando o modelo \"%4$s\"."
+        }
+    }
+}

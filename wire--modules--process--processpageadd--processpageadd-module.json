@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Onde voc\u00ea deseja adicionar o novo %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Por favor, selecione uma p\u00e1gina pai abaixo:"
+        },
+        "2298e69a8c95260f81457d8bb74b91ba": {
+            "text": "Atualmente n\u00e3o h\u00e1 templates com rela\u00e7\u00f5es pai\/filho definidas necess\u00e1rias para mostrar atalhos de \"Adicionar Novo\" aqui."
+        },
+        "bf4ac1b27288d052237b266bafed78a5": {
+            "text": "Para configurar isso, edite qualquer modelo (Configura\u00e7\u00e3o > Modelos) e clique na aba \u201cFam\u00edlia\u201d."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar Novo"
+        },
+        "46b60bab6d1b7ba1219e3e973f798bb8": {
+            "text": "O modelo pai especificou que nenhum filho pode ser adicionado aqui"
+        },
+        "4adda0ba499618f088c016218590568a": {
+            "text": "O modelo \"%1$s\" n\u00e3o permite pais do tipo \"%2$s\""
+        },
+        "8ac79db907beb1536bae6c8bebcd2d8f": {
+            "text": "O pai do tipo \"%1$s\" n\u00e3o permite filhos do tipo \"%2$s\""
+        },
+        "66734a327a9407446a6c13da6d7e88ad": {
+            "text": "Voc\u00ea n\u00e3o tem acesso para adicionar p\u00e1ginas ao pai %s"
+        },
+        "950464785f49f016bb3488b4bead5c7e": {
+            "text": "O pai especificado n\u00e3o \u00e9 permitido (%s)"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "O nome inserido j\u00e1 est\u00e1 em uso. Se voc\u00ea n\u00e3o modific\u00e1-lo, o nome ser\u00e1 tornado \u00fanico automaticamente ap\u00f3s voc\u00ea salvar."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Nenhum modelo permitido para adicionar novas p\u00e1ginas aqui."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Modelo \"%s\" n\u00e3o \u00e9 permitido aqui."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Modelo"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Pai"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Salvar"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Salvar + Publicar"
+        },
+        "591d3e7786bdfa26890da22a5565f1f5": {
+            "text": "Salvar + Publicar + Adicionar Outro"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "P\u00e1gina tempor\u00e1ria n\u00e3o utilizada"
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "P\u00e1gina %1$s criada usando o modelo: %2$s"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Aten\u00e7\u00e3o, o nome que voc\u00ea selecionou \"%1$s\" j\u00e1 estava em uso e foi alterado para \"%2$s\"."
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Campo obrigat\u00f3rio ausente: nome"
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "A sele\u00e7\u00e3o do modelo \u00e9 obrigat\u00f3ria"
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "As p\u00e1ginas que voc\u00ea selecionar acima representam favoritos para as p\u00e1ginas pai onde voc\u00ea deseja adicionar filhos. Note que se um usu\u00e1rio n\u00e3o tiver permiss\u00e3o para adicionar uma p\u00e1gina a uma determinada p\u00e1gina pai (seja devido ao controle de acesso ou configura\u00e7\u00f5es de fam\u00edlia de templates), o favorito n\u00e3o aparecer\u00e1."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Ordem de classifica\u00e7\u00e3o do atalho do modelo"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Para alterar a ordem dos atalhos de modelo de \"Adicionar Novo\", arraste e solte as op\u00e7\u00f5es na ordem desejada."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Para adicionar ou remover modelos desses atalhos, consulte a aba Fam\u00edlia do editor de modelos."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Desativar publica\u00e7\u00e3o autom\u00e1tica"
+        },
+        "b2a25c3747d55c5c17c8fdd9df6b4fb5": {
+            "text": "Por padr\u00e3o, p\u00e1ginas com apenas campos globais (mais comumente \"t\u00edtulo\") ser\u00e3o publicadas automaticamente quando adicionadas."
+        },
+        "586ac396098f671914f6d39ca427dfe8": {
+            "text": "Isso ignora o estado n\u00e3o publicado, o que pode ser um economizador de tempo desej\u00e1vel em algumas inst\u00e2ncias."
+        },
+        "fdea6cb8047656097fa26264565210a0": {
+            "text": "Opcionalmente, voc\u00ea pode cancelar esse comportamento marcando a caixa abaixo."
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Adicionar P\u00e1gina"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Adicionar uma nova p\u00e1gina"
+        }
+    }
+}

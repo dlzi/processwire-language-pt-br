@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Para ter valores padr\u00e3o pr\u00e9-selecionados, insira os valores das op\u00e7\u00f5es (um por linha) abaixo."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Para ter um valor padr\u00e3o pr\u00e9-selecionado, insira o valor da op\u00e7\u00e3o abaixo."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valor padr\u00e3o"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Para a sele\u00e7\u00e3o padr\u00e3o de p\u00e1gina, o valor seria o n\u00famero de ID da p\u00e1gina."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "IMPORTANTE: O valor padr\u00e3o n\u00e3o \u00e9 usado a menos que o campo seja obrigat\u00f3rio (veja a caixa de sele\u00e7\u00e3o \u201cobrigat\u00f3rio\u201d nesta tela)."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Op\u00e7\u00f5es"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Insira as op\u00e7\u00f5es que podem ser selecionadas, uma por linha."
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "Para usar r\u00f3tulos de op\u00e7\u00f5es multil\u00edngues, consulte as instru\u00e7\u00f5es abaixo deste campo."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Instru\u00e7\u00f5es:"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "Especifique uma op\u00e7\u00e3o por linha."
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Para manter um valor e um r\u00f3tulo separados, separe-os com um sinal de igual. Exemplo: valor=Minha Op\u00e7\u00e3o"
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Para preceder sua lista com uma op\u00e7\u00e3o em branco, insira apenas um sinal de igual \"=\" como primeira op\u00e7\u00e3o."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Para selecionar uma op\u00e7\u00e3o, coloque um sinal de mais antes dela. Exemplo: +Minha Op\u00e7\u00e3o"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Para criar um optgroup (grupo de op\u00e7\u00f5es), indente as op\u00e7\u00f5es no grupo com 3 ou mais espa\u00e7os."
+        },
+        "cc56b7dd49d4042aa921e44a93428c3f": {
+            "text": "Para adicionar uma linha horizontal, especifique 3 ou mais tra\u00e7os\/h\u00edfenes em uma linha sem mais nada. Exemplo: ---"
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "Instru\u00e7\u00f5es para v\u00e1rios idiomas:"
+        },
+        "f79f891c4cdcad35f5c97b6d5abf6338": {
+            "text": "Recomendamos usar `value=label`, onde `value` \u00e9 o mesmo em todos os idiomas e `label` \u00e9 traduzido."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "Primeiro defina suas op\u00e7\u00f5es de idioma padr\u00e3o e, em seguida, copie\/cole nos outros idiomas e traduza os r\u00f3tulos."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "As op\u00e7\u00f5es selecionadas e grupos de op\u00e7\u00f5es s\u00e3o definidos no idioma padr\u00e3o; as outras entradas s\u00e3o apenas para tradu\u00e7\u00e3o de r\u00f3tulos."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "Os r\u00f3tulos que n\u00e3o s\u00e3o traduzidos herdam o r\u00f3tulo do idioma padr\u00e3o."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecionar"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Sele\u00e7\u00e3o de um \u00fanico valor a partir de um menu suspenso"
+        }
+    }
+}

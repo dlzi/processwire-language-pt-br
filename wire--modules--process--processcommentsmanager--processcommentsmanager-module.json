@@ -1,0 +1,309 @@
+{
+    "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
+    "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
+    "translations": {
+        "15422d54ec0d47000dc86a9820a5237e": {
+            "text": "Destaque"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Aprovado"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Pendente"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Excluir"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Todos"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Respostas"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "N\u00e3o h\u00e1 campos de coment\u00e1rios instalados"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Selecione um campo de coment\u00e1rios"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "Nenhum campo de coment\u00e1rios especificado na URL"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Campo n\u00e3o reconhecido"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Respostas para"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "P\u00e1gina"
+        },
+        "d63635a63603e4ef806df97294a902ed": {
+            "text": "Metadados para o coment\u00e1rio #%d"
+        },
+        "ca962ca6f37c2772794953e327cd7cb2": {
+            "text": "O coment\u00e1rio atualmente n\u00e3o possui metadados"
+        },
+        "78159fc614d1e3df7d39aa351f0578e2": {
+            "text": "Editor de meta JSON"
+        },
+        "daa6b483e9f6ca081ec7e0b4a352f9e9": {
+            "text": "Salvar altera\u00e7\u00f5es"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nenhuma altera\u00e7\u00e3o detectada"
+        },
+        "646282aa96109d00b491937c02c1753a": {
+            "text": "Meta atualizada para o coment\u00e1rio #%d"
+        },
+        "7126c205afb1135079ad7a47630a2cba": {
+            "text": "Erro ao atualizar meta para coment\u00e1rio #%d"
+        },
+        "663cac8a406b356e671fb273a143ab84": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel salvar porque o JSON \u00e9 inv\u00e1lido"
+        },
+        "5d25563c1a89451d742876569bc17e1c": {
+            "text": "Editar coment\u00e1rio #%d"
+        },
+        "a8232bdb3f7f5bd453b463e79fbf9864": {
+            "text": "Coment\u00e1rio #%d de %s"
+        },
+        "d754a9e8cb640da12849a040f3ca8176": {
+            "text": "Sua resposta"
+        },
+        "90f2f5cb0d375a1b5d2ef2888c551e1e": {
+            "text": "A p\u00e1gina selecionada n\u00e3o \u00e9 edit\u00e1vel"
+        },
+        "62f6fe8b39b423d3d3c6056557b86f78": {
+            "text": "A p\u00e1gina selecionada n\u00e3o possui campo: %s"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Coment\u00e1rio exclu\u00eddo #%d"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "Coment\u00e1rio atualizado #%d"
+        },
+        "42c2e3ae4b782ca91970d7420496f69f": {
+            "text": "Coment\u00e1rio adicionado #%d"
+        },
+        "30d34af303a36cdbee9d37d27980cdfe": {
+            "text": "Erro ao salvar o coment\u00e1rio"
+        },
+        "b692fa2b57872b7a287d9acb6c616828": {
+            "text": "Citar \/ autor"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "="
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Criado"
+        },
+        "4c9d8240b71a9037b069004ccaa62aad": {
+            "text": "="
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Texto"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Votos positivos"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Votos negativos"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Estrelas"
+        },
+        "5d97927a6eed8f7f5a628428615d1174": {
+            "text": "Notifique o e-mail listado acima quando"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nunca"
+        },
+        "988c8ef2841b65928303615052466c17": {
+            "text": "H\u00e1 uma resposta para este coment\u00e1rio"
+        },
+        "67ac3c361b7fe0ebf62c067bf3e31500": {
+            "text": "Sempre que um novo coment\u00e1rio \u00e9 postado nesta p\u00e1gina"
+        },
+        "7cc293f9e7daf09af51e3e04210059af": {
+            "text": "Permitir notifica\u00e7\u00f5es para outras pessoas?"
+        },
+        "1a595440a8aebad5a30f09f2fd73cf66": {
+            "text": "Quando \u201cSim\u201d, e-mails sobre este novo coment\u00e1rio ser\u00e3o enviados aos usu\u00e1rios que optaram por receber notifica\u00e7\u00f5es."
+        },
+        "54370b79c5171298a76fecdc5bb56e8e": {
+            "text": "N\u00e3o foi poss\u00edvel encontrar a p\u00e1gina: %d"
+        },
+        "13cda2cfc29efb3f6a7b8b9f7c24acd9": {
+            "text": "P\u00e1gina %d n\u00e3o tem o campo: %s"
+        },
+        "36099fd1f86153fbe98d6d09ad5c64fd": {
+            "text": "Coment\u00e1rio #%1$d movido da p\u00e1gina %2$d para a p\u00e1gina %3$d"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "editar"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "visualizar"
+        },
+        "4e97aeeaa8b15ca1180fcd1f3ac478d1": {
+            "text": "Quando"
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "A\u00e7\u00e3o"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Citar"
+        },
+        "c6e190b284633c48e39e55049da3cce8": {
+            "text": "="
+        },
+        "4dfbb099eafd3c82e033bf92946d3ce6": {
+            "text": "Correspond\u00eancia"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Pai"
+        },
+        "b3c5b21d2cb47cc950fd4667edaf404c": {
+            "text": "Onde"
+        },
+        "e84afaab83ecb301b3d97ce4174d2773": {
+            "text": "responder"
+        },
+        "06d9d9227a6c26ee0148439a24dd351f": {
+            "text": "Responder a %s"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Votos"
+        },
+        "aaf9ed605d0193362321ba0def15c9b7": {
+            "text": "Notificar"
+        },
+        "9b4a46700a216e7f86402b5a11722f5f": {
+            "text": "ID do coment\u00e1rio"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "="
+        },
+        "0b5be322b470d22de5cd2ecdf9e9361f": {
+            "text": "ID do coment\u00e1rio ao qual este est\u00e1 respondendo."
+        },
+        "e8108834c7ffb39092e8284f6ebeae5d": {
+            "text": "ID da p\u00e1gina onde este coment\u00e1rio est\u00e1."
+        },
+        "824d3f8e2abf1d4d5501516dafa0797c": {
+            "text": "Ver todos com o valor"
+        },
+        "f64f516a321829f21a8686d7411c184e": {
+            "text": "Ver pagina"
+        },
+        "5bcd278346ef0ee9a549bd38478ed1e6": {
+            "text": "Editar valor"
+        },
+        "3fa4031425bbfdb55a03849422d8d9dc": {
+            "text": "Editar p\u00e1gina"
+        },
+        "436ab3711aae372f3890d1885f4d4d2a": {
+            "text": "Mostrar apenas coment\u00e1rios da p\u00e1gina"
+        },
+        "cd8c15f27abadeefe68a23b7333543aa": {
+            "text": "Editor de coment\u00e1rios"
+        },
+        "bc9e60a9d89ccff64f5282425aa1374e": {
+            "text": "Responder a este coment\u00e1rio"
+        },
+        "02334c757771bda658242d624c167dc7": {
+            "text": "Ver\/editar metadados"
+        },
+        "a690f09cec7c496921a55201d25b9a09": {
+            "text": "Responder a #"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Definir status:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "por p\u00e1gina"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Marcar\/desmarcar todos"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "N\u00e3o h\u00e1 itens marcados"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "A\u00e7\u00f5es (itens marcados)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Redefinir: votos positivos"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Redefinir: Votos negativos"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Data (novo\u2013antigo)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Data (antigo-novo)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Estrelas (alto-baixo)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Estrelas (baixo-alto)"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Ordenar:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Voc\u00ea tem altera\u00e7\u00f5es n\u00e3o salvas!"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "de %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Nenhum para exibir"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Coment\u00e1rios"
+        },
+        "37128d5a4c6200152c60cd46c829d635": {
+            "text": "Gerencie coment\u00e1rios em seu site fora do editor de p\u00e1ginas."
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d resposta"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d respostas"
+        },
+        "a35fa72f9544ae5e79a5ec2fab77a292": {
+            "text": "%d valor"
+        },
+        "98c29131727c2ed01bf8da85368e996b": {
+            "text": "%d valores"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "e9a23cbc455158951716b440c3d165e0": {
+            "text": "="
+        },
+        "5aee9dbd2a188839105073571bee1b1f": {
+            "text": "="
+        }
+    }
+}

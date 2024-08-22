@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguage.module",
+    "textdomain": "wire--modules--languagesupport--processlanguage-module",
+    "translations": {
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "Importa\u00e7\u00e3o de CSV:"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Busca em Tempo Real"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Texto para pesquisar"
+        },
+        "eb1aa189659918acda10866815cacccd": {
+            "text": "Atualizar \u00edndice de frase de pesquisa"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Clique aqui para construir o \u00edndice de frases de pesquisa"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Pesquisar todos os arquivos traduz\u00edveis para texto\/frase espec\u00edfica."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Clique nas correspond\u00eancias encontradas para editar a tradu\u00e7\u00e3o ou adicionar arquivo (se ainda n\u00e3o estiver presente)."
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "Arquivo de tradu\u00e7\u00e3o CSV a ser importado ap\u00f3s salvar"
+        },
+        "8327b21ed9628232c90353c7c08ad16f": {
+            "text": "%d abandonado"
+        },
+        "c4337ed7fd3fa9186398110fdd126ba0": {
+            "text": "%d em branco"
+        },
+        "ed2a971bca5defe00f300999d777b058": {
+            "text": "%d substituto"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Encontrar Arquivos para Traduzir"
+        },
+        "9b73fd4d710e72a212bfc7dbe5692405": {
+            "text": "Baixar ZIP"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "Baixar CSV"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Dom\u00ednio de texto n\u00e3o reconhecido para arquivo: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d tradu\u00e7\u00f5es totais, %d mudan\u00e7as totais"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "Salvo %d mudan\u00e7a(s) para o arquivo: %s"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Idiomas"
+        },
+        "8ff1c082c6dbbbb942d86d0620b18aca": {
+            "text": "Gerenciar idiomas do sistema"
+        },
+        "1514a1c310fe6db41aeda8f1b1006713": {
+            "text": "Editar"
+        },
+        "897d3357128f316af8d6a605c545a702": {
+            "text": "%d frase"
+        },
+        "f38977b9226f40d3b86bae7d9611a880": {
+            "text": "%d frases"
+        }
+    }
+}

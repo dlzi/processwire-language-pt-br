@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageTrash.module",
+    "textdomain": "wire--modules--process--processpagetrash-module",
+    "translations": {
+        "d97ed15efb05fad91c607749ebcab79e": {
+            "text": "Voc\u00ea deve marcar a caixa para confirmar"
+        },
+        "dc097f8cfcf3251cf70e684e28515eb5": {
+            "text": "(%d p\u00e1ginas por segundo)"
+        },
+        "7f3d24328c95805774f2fd34fc2a79e2": {
+            "text": "Nem todas as p\u00e1ginas puderam ser exclu\u00eddas (%d permanecem)"
+        },
+        "d7dd8da0daa978390eb2d2d08495b0f8": {
+            "text": "Limite de tempo atingido (%d segundos)"
+        },
+        "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
+            "text": "A lixeira est\u00e1 vazia"
+        },
+        "a7ba99f8126601330132e87659987ca3": {
+            "text": "Esvazie a lixeira (confirmar)"
+        },
+        "4cb363dfd90b57ce6c1b9099ec61d95e": {
+            "text": "As p\u00e1ginas esvaziadas da lixeira s\u00e3o exclu\u00eddas do banco de dados e do sistema de arquivos e n\u00e3o podem mais ser restauradas."
+        },
+        "1012544490a2eae7e9782116062941b6": {
+            "text": "Se houver muitos itens na lixeira, talvez seja necess\u00e1rio esvazi\u00e1-la v\u00e1rias vezes."
+        },
+        "449d5f439f475ea845545769d93ec42f": {
+            "text": "P\u00e1ginas na lixeira"
+        },
+        "b7750c7b7ef35775735ea2133810d06b": {
+            "text": "Limite de tempo (em segundos)"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "76c155bf8de0fe17853a8d8c231f72b0": {
+            "text": "Lixeira da P\u00e1gina"
+        },
+        "920202a83e840023ebf5ac6e31ccfbf3": {
+            "text": "Gerencia o esvaziamento da lixeira de p\u00e1ginas"
+        },
+        "b246b52c4b32fcf1d8ef0c6144f3fb53": {
+            "text": "%d p\u00e1gina exclu\u00edda"
+        },
+        "adc38f6c0e8a0f6296294e08a2ca3c64": {
+            "text": "%d p\u00e1ginas exclu\u00eddas"
+        },
+        "5f489bcc97cbc73f35cbd127c5c0053a": {
+            "text": "Excluir permanentemente %d p\u00e1gina da lixeira?"
+        },
+        "7d45095d03e58ce1a62afd6e0d149bf0": {
+            "text": "Excluir permanentemente %d p\u00e1ginas da lixeira?"
+        }
+    }
+}

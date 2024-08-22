@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageTabs.module",
+    "textdomain": "wire--modules--languagesupport--languagetabs-module",
+    "translations": {
+        "4ee6b922de4a3b1d79036b200520ee37": {
+            "text": "Expandir Abas de Idioma"
+        },
+        "c667865dc18e9366c835d279c3192aea": {
+            "text": "Recolher\/Converter de volta para Abas"
+        },
+        "f69430a321cf6f1a6f0ab31192d94fd2": {
+            "text": "clique duas vezes para alterar todas as abas"
+        },
+        "72f18bd929af0ac260805811117b85e9": {
+            "text": "Campo a ser usado para r\u00f3tulos das abas"
+        }
+    }
+}

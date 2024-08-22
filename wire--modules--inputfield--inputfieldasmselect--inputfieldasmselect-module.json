@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "Linkar p\u00e1ginas selecionadas para o editor de p\u00e1ginas?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Quando ativado, o r\u00f3tulo selecionado ser\u00e1 linkado para editar a p\u00e1gina selecionada."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Sim"
+        },
+        "1cd298de417a75485be2184aab1f77b2": {
+            "text": "(na janela modal)"
+        },
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "Sele\u00e7\u00e3o m\u00faltipla, aprimoramento progressivo para selecionar m\u00faltiplos"
+        }
+    }
+}

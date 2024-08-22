@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Usar caracteres UTF-8 para substitui\u00e7\u00f5es em vez de entidades HTML?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "comportamento padr\u00e3o do SmartyPants \u00e9 adicionar\/atualizar caracteres usando entidades HTML."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Se voc\u00ea observar problemas de codifica\u00e7\u00e3o dupla, voc\u00ea pode querer que ele use substitui\u00e7\u00f5es UTF-8."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Nenhum (padr\u00e3o)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Sim (algum)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Sim (todos)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Observe que a op\u00e7\u00e3o \u201ctodos\u201d far\u00e1 com que os seguintes caracteres sejam decodificados (quando codificados por entidade), mesmo que n\u00e3o tenham sido inseridos pelo SmartyPants:"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "Por favor, configure"
+        },
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "HABILITADO"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "Autentica\u00e7\u00e3o de dois fatores habilitada!"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Para desabilitar ou alterar as configura\u00e7\u00f5es, selecione a op\u00e7\u00e3o \"Nenhum\" acima e salve."
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "C\u00f3digo expirado"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "Tipo de autentica\u00e7\u00e3o de dois fatores"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Ap\u00f3s fazer ou alterar uma sele\u00e7\u00e3o, envie o formul\u00e1rio e retorne aqui para configur\u00e1-lo."
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "C\u00f3digo de Autentica\u00e7\u00e3o"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "C\u00f3digo inv\u00e1lido"
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "N\u00famero m\u00e1ximo de tentativas atingido"
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Limpar navegadores lembrados que pulam a inser\u00e7\u00e3o do c\u00f3digo de autentica\u00e7\u00e3o"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Navegadores lembrados limpos"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Lembrar este computador?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Este computador\/navegador agora \u00e9 lembrado por at\u00e9 %d dias."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "Altera\u00e7\u00f5es no navegador e\/ou localiza\u00e7\u00e3o podem exigir um novo c\u00f3digo."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "O c\u00f3digo n\u00e3o foi necess\u00e1rio porque o navegador foi reconhecido de um login anterior."
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "Erro ao criar ou enviar c\u00f3digo de autentica\u00e7\u00e3o"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "Limite de tempo atingido"
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "..."
+        }
+    }
+}

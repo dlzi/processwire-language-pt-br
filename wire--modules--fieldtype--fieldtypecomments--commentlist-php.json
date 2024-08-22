@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Coment\u00e1rios"
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "Responder"
+        },
+        "d9287e1f759c64de0904790f2a6e0e44": {
+            "text": "1 resposta"
+        },
+        "e7176629340ee4244be7962d5ed68616": {
+            "text": "%d respostas"
+        },
+        "8725214cdd9f9af24e914b5da135793d": {
+            "text": "Link permanente"
+        },
+        "6194a6554ccb6086b8809d2b3a5dddaf": {
+            "text": "Curtir este coment\u00e1rio"
+        },
+        "c7e01d04a86dacfbef51bb8cd79ae5eb": {
+            "text": "N\u00e3o gosto deste coment\u00e1rio"
+        }
+    }
+}

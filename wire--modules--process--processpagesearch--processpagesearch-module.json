@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nenhuma pesquisa especificada"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Pesquisar em campo(s):"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Tipo de pesquisa:"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Pesquisar por:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Limitar ao modelo:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "Ordenar por:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Classifica\u00e7\u00e3o reversa?"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Campo(s) de exibi\u00e7\u00e3o:"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Op\u00e7\u00f5es de Pesquisa"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Avan\u00e7ado"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "editar"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Pesquisa ao vivo do administrador"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Ordem de pesquisa"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Esses s\u00e3o os tipos de pesquisas que ser\u00e3o realizadas durante uma pesquisa administrativa em tempo real."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Arraste-os para a ordem em que deseja que os resultados da pesquisa sejam listados."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(exclu\u00eddo)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Excluir tipos de pesquisa"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Selecione quaisquer tipos de pesquisa que voc\u00ea deseja excluir da pesquisa em tempo real. Esses podem ser tipos que voc\u00ea n\u00e3o precisa pesquisar com frequ\u00eancia."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Quanto mais tipos forem exclu\u00eddos, mais r\u00e1pido ser\u00e1 o desempenho da pesquisa ao vivo."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Quaisquer tipos selecionados ainda poder\u00e3o ser pesquisados se solicitados especificamente na pesquisa."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Por exemplo, se voc\u00ea excluiu o tipo \u201ctrash\u201d, ele ainda poder\u00e1 ser pesquisado se voc\u00ea prefixar sua pesquisa com \u201ctrash=\u201d, como \u201ctrash=hello\u201d."
+        },
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(configura\u00e7\u00f5es para tipo de p\u00e1gina)"
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Campos de p\u00e1gina para pesquisar"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Isso se aplica apenas aos resultados de pesquisa de \u201cp\u00e1ginas\u201d e \u201clixeira\u201d."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Recomendamos limitar isso a 1 ou 2 campos no m\u00e1ximo para garantir que a pesquisa ao vivo seja r\u00e1pida. Normalmente, voc\u00ea apenas pesquisaria no campo \u201ct\u00edtulo\u201d."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Campos de p\u00e1gina para pesquisar se o usu\u00e1rio clicar em \u201center\u201d na caixa de pesquisa"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Normalmente, isso seria igual ao acima, mas voc\u00ea tamb\u00e9m pode querer adicionar campos adicionais."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Por exemplo, em vez de apenas pesquisar no campo \u201ct\u00edtulo\u201d, voc\u00ea pode querer pesquisar tamb\u00e9m no campo \u201ccorpo\u201d."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Operador de pesquisa padr\u00e3o para pesquisas de palavras \u00fanicas e parciais"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Operador de pesquisa padr\u00e3o para pesquisas com v\u00e1rias palavras (frases)"
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "Nome(s) de campo padr\u00e3o para exibi\u00e7\u00e3o nos resultados da pesquisa"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "Se especificar mais de um campo, separe cada um com um espa\u00e7o."
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Procurar"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Procurar"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "P\u00e1ginas"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "P\u00e1gina %1$d encontrada usando o seletor: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Foram encontradas %1$d p\u00e1ginas usando o seletor: %2$s"
+        }
+    }
+}

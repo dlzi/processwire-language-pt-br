@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Formato de Sa\u00edda de Data"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Selecione o formato a ser usado ao exibir datas com este campo."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Para formatos relativos de data\/hora, consulte Formato de Sa\u00edda de Tempo."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Formato de Sa\u00edda de Tempo"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Se voc\u00ea deseja gerar a hora al\u00e9m da data, selecione o formato a ser usado ao gerar a hora com este campo. Isso ser\u00e1 combinado com o formato da data."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "C\u00f3digo de Formato de Sa\u00edda de Data\/Hora"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "A data\/hora ser\u00e1 exibida de acordo com o formato abaixo. Isso \u00e9 criado automaticamente a partir das sele\u00e7\u00f5es de data\/hora acima, mas voc\u00ea pode alter\u00e1-lo conforme necess\u00e1rio para atender \u00e0s suas necessidades."
+        },
+        "933a4e03586f37e44d1daeff7431cf9b": {
+            "text": "Consulte a refer\u00eancia da fun\u00e7\u00e3o [data PHP](https:\/\/www.php.net\/manual\/en\/function.date.php) para obter mais informa\u00e7\u00f5es sobre como personalizar este formato. Alternativamente, voc\u00ea pode usar um formato [PHP strftime](https:\/\/www.php.net\/manual\/en\/function.strftime.php) se desejar para localiza\u00e7\u00e3o."
+        },
+        "22a396f3a84b3aff1960dbed98c1fb31": {
+            "text": "Data e Hora"
+        },
+        "5016138c85a562108655c5e404dee4eb": {
+            "text": "si"
+        },
+        "a6e25708f325c204e3e7e9dfebd1eea7": {
+            "text": "Data"
+        },
+        "428e3341e08cd52abb9578cca03936c1": {
+            "text": "Tempo"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Op\u00e7\u00e3o de largura da coluna"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Use esta configura\u00e7\u00e3o para exibir op\u00e7\u00f5es em colunas de largura fixa que flutuam ou colapsam de acordo com a largura da viewport."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Digite um n\u00famero de largura CSS e sua unidade, como `100px` ou `10em`, por exemplo. Se nenhuma unidade for especificada, `px`  (pixels) \u00e9 assumido."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Digite o n\u00famero `1` para calcular automaticamente uma largura apropriada em tempo de execu\u00e7\u00e3o."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "Para obter a melhor apar\u00eancia, insira uma largura que caiba na op\u00e7\u00e3o mais longa sem quebra de linha ou insira `1` para largura autom\u00e1tica."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Quantidade de colunas de op\u00e7\u00e3o"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Se quiser que as op\u00e7\u00f5es sejam exibidas em colunas, insira o n\u00famero de colunas que deseja usar (at\u00e9 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Para exibir op\u00e7\u00f5es embutidas lado a lado, insira o n\u00famero `1`."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Observe que a configura\u00e7\u00e3o \u201clargura da coluna de op\u00e7\u00e3o\u201d \u00e9 prefer\u00edvel para comportamento responsivo."
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Caixas de sele\u00e7\u00e3o"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "V\u00e1rias op\u00e7\u00f5es de caixa de sele\u00e7\u00e3o"
+        }
+    }
+}

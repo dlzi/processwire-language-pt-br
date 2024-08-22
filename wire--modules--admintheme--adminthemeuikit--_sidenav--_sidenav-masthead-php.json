@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/_sidenav\/_sidenav-masthead.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--_sidenav--_sidenav-masthead-php",
+    "translations": {
+        "a603905470e2a5b8c13e96b579ef0dba": {
+            "text": "Depurar"
+        },
+        "bdb2999f28589aad2b040c21930c86dc": {
+            "text": "Barra lateral de navega\u00e7\u00e3o"
+        },
+        "abba6550796b8befa890c581127fd644": {
+            "text": "Barra lateral da \u00e1rvore de p\u00e1ginas"
+        }
+    }
+}

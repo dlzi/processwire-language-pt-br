@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/PagesEditor.php",
+    "textdomain": "wire--core--pageseditor-php",
+    "translations": {
+        "9ba12390dc16d0bb6b897e136830b4e4": {
+            "text": "P\u00e1gina Sem T\u00edtulo"
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "P\u00e1gina usando o modelo \"%s\" n\u00e3o \u00e9 mov\u00edvel."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Pai escolhido \u201c%1$s\u201d usa o modelo \u201c%2$s\u201d que n\u00e3o permite filhos."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel mover \u201c%1$s\u201d porque o modelo \u201c%2$s\u201d usado pela p\u00e1gina \u201c%3$s\u201d n\u00e3o permite filhos usando o modelo \u201c%4$s\u201d."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel mover \u201c%1$s\u201d porque o modelo \u201c%2$s\u201d usado pelo novo pai \u201c%3$s\u201d n\u00e3o \u00e9 permitido pelo modelo da p\u00e1gina movida \u201c%4$s\u201d."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Pai escolhido \u201c%1$s\u201d j\u00e1 tem uma p\u00e1gina chamada \u201c%2$s\u201d."
+        },
+        "f7b20059533e8267e92eecda0b6eee8e": {
+            "text": "Erro ao salvar campo \"%s\""
+        }
+    }
+}

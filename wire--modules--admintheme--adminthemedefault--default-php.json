@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/default.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--default-php",
+    "translations": {
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Sair"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "PARA TRADUTORES: por favor, traduza o arquivo \/wire\/templates-admin\/default.php ao inv\u00e9s deste."
+        }
+    }
+}

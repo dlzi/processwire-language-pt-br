@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "Valor do Seletor Inicial"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Digite uma string de seletor inicial que ser\u00e1 usada como ponto de partida for\u00e7ado para quaisquer seletores gerados a partir deste campo. Qualquer p\u00e1gina que corresponda ao seletor do usu\u00e1rio ser\u00e1 vinculada dentro do seletor que voc\u00ea inserir aqui."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Exemplo: modelo=produto"
+        },
+        "8de040fe605622e9683d5c72a79d28b4": {
+            "text": "Visualizar Colunas"
+        },
+        "e4dad406b489c052036f2de2bd7dc3a5": {
+            "text": "Digite uma string CSV de colunas\/nomes de campos para mostrar nas pr\u00e9-visualiza\u00e7\u00f5es geradas a partir deste campo."
+        },
+        "9079d8cb5302982d2d861798bc2a2d38": {
+            "text": "Exemplo: nome, modelo, pai, id"
+        }
+    }
+}

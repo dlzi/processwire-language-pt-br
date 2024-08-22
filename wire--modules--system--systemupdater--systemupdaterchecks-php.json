@@ -1,0 +1,105 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "V\u00e1rios problemas detectados. Revise:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Observe que seu arquivo root %s n\u00e3o est\u00e1 atualizado com esta vers\u00e3o do ProcessWire, atualize-o quando poss\u00edvel."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Para suprimir esse aviso, substitua ou adicione o seguinte na parte superior do seu arquivo .htaccess existente:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Bem-vindo ao ProcessWire!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Se esta instala\u00e7\u00e3o estiver sendo usada para desenvolvimento ou teste, recomendamos ativar o modo de depura\u00e7\u00e3o."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "O modo de depura\u00e7\u00e3o garante que todos os erros fiquem vis\u00edveis, o que pode ser \u00fatil durante o desenvolvimento ou solu\u00e7\u00e3o de problemas."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Ele tamb\u00e9m permite que informa\u00e7\u00f5es adicionais do desenvolvedor apare\u00e7am aqui no administrador."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Voc\u00ea pode ativar o modo de depura\u00e7\u00e3o editando seu arquivo %s e adicionando o seguinte:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Aten\u00e7\u00e3o: esta notifica\u00e7\u00e3o n\u00e3o ser\u00e1 mostrada novamente. Lembre-se de desativar o modo de depura\u00e7\u00e3o antes de entrar no ar."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Aviso de seguran\u00e7a: o arquivo '%s' existe e deve ser exclu\u00eddo o mais r\u00e1pido poss\u00edvel."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Aten\u00e7\u00e3o, seu arquivo %s especifica permiss\u00f5es de arquivo que s\u00e3o muito vagas para muitos ambientes:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Leia \"Protegendo permiss\u00f5es de arquivo\" para obter mais detalhes"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Para suprimir esse aviso, adicione o seguinte ao seu arquivo %s:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Aten\u00e7\u00e3o: voc\u00ea possui um campo denominado \u201cpublicado\u201d que entra em conflito com a propriedade \u201cpublicado\u201d da p\u00e1gina."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Renomeie seu campo para outro nome e atualize todos os modelos que fazem refer\u00eancia a ele."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Sua configura\u00e7\u00e3o de localidade atual \u00e9 \u201c%s\u201d."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Observa\u00e7\u00e3o: a configura\u00e7\u00e3o atual de localidade do servidor n\u00e3o est\u00e1 funcionando conforme o esperado com o conjunto de caracteres UTF-8 e pode causar pequenos problemas."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Traduza a configura\u00e7\u00e3o de localidade \u201cC\u201d de cada idioma para a localidade compat\u00edvel em %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Por exemplo, a configura\u00e7\u00e3o de localidade para ingl\u00eas dos EUA pode ser: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Adicione isto ao seu arquivo %1$s (ajuste \u201c%2$s\u201d conforme necess\u00e1rio):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "O site est\u00e1 em modo debug, adequado para sites em desenvolvimento"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Se este for um site ativo\/de produ\u00e7\u00e3o, voc\u00ea deve desativar o modo de depura\u00e7\u00e3o em %1$s com: %2$s"
+        },
+        "bac4951f14a17b95173f02192629e8b3": {
+            "text": "Seu limite de mem\u00f3ria do PHP est\u00e1 atualmente definido como %s."
+        },
+        "c57b443779cf3185492a1248dbead5a0": {
+            "text": "Recomendamos aument\u00e1-lo para pelo menos %s."
+        },
+        "cec93480f3d9c56dd41deb0dd62594bf": {
+            "text": "Como otimiza\u00e7\u00e3o de desempenho, considere aument\u00e1-lo para pelo menos %s."
+        },
+        "87d16ab6475fc685c551a3deb26b0314": {
+            "text": "Aten\u00e7\u00e3o, o hor\u00e1rio do banco de dados difere do hor\u00e1rio do PHP em %s."
+        },
+        "47d93b16dbcd03998421dc17103a206c": {
+            "text": "%s \u2013 tempo do banco de dados"
+        },
+        "c43fe72c10f6c324e4f7bbbace58084e": {
+            "text": "%s - hora do PHP"
+        },
+        "ccd3671a8af3a1c2f505db9228bf30b3": {
+            "text": "Edite seu arquivo %1$s e atualize seu %2$s para corresponder ao seu banco de dados."
+        },
+        "0c56b1743edd58151ac157e68e28aed4": {
+            "text": "Veja a lista de fusos hor\u00e1rios do PHP"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Vers\u00e3o necess\u00e1ria: %1$s, Vers\u00e3o encontrada: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "N\u00e3o foi poss\u00edvel localizar o arquivo necess\u00e1rio: %s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "C"
+        }
+    }
+}

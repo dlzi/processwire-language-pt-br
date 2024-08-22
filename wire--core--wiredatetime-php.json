@@ -1,0 +1,207 @@
+{
+    "file": "wire\/core\/WireDateTime.php",
+    "textdomain": "wire--core--wiredatetime-php",
+    "translations": {
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nunca"
+        },
+        "2654992d78afbd40bad349302a6f2b6a": {
+            "text": "agora mesmo"
+        },
+        "6d0a578ca2f2c0e792fc923002fccbe3": {
+            "text": "atr\u00e1s"
+        },
+        "9aa587bfb76008ca6b764747b7e43aff": {
+            "text": "a partir de agora"
+        },
+        "97bc592b27a9ada2d9a4bb418ed0ebed": {
+            "text": "agora"
+        },
+        "13b5bfe96f3e2fe411c9f66f4a582adf": {
+            "text": "em"
+        },
+        "5d2bf8e6622cb88ca16a745dcf8153a0": {
+            "text": "semana"
+        },
+        "197639b278057c519189add5413712e3": {
+            "text": "seg"
+        },
+        "24457c6b0ac87e9c58d80dca40b16dee": {
+            "text": "ano"
+        },
+        "2787910b1b16428d65412fca2718a92e": {
+            "text": "d\u00e9cada"
+        },
+        "4ed6db01dd21186f0050084d96e6aeba": {
+            "text": "semanas"
+        },
+        "06e8cef1ae0ffb3748215cf9827cba6d": {
+            "text": "meses"
+        },
+        "dd54b79040542ce0f6691e1a1945827a": {
+            "text": "anos"
+        },
+        "a6e311dfab473630d03ac5323d5c36e9": {
+            "text": "d\u00e9cadas"
+        },
+        "74459ca3cf85a81df90da95ff6e7a207": {
+            "text": "segundo"
+        },
+        "628b7db04235f228d40adc671413a8c8": {
+            "text": "dia"
+        },
+        "172a8327fcd3685ab3c0f740d031da09": {
+            "text": "semana"
+        },
+        "7436f942d5ea836cb84f1bb2527d8286": {
+            "text": "m\u00eas"
+        },
+        "84cdc76cabf41bd7c961f6ab12f117d8": {
+            "text": "ano"
+        },
+        "975a85a4ffa56e23c70e2bbeaf405ac7": {
+            "text": "segundos"
+        },
+        "1442a7b6e2c20b27775175eecba84dac": {
+            "text": "minutos"
+        },
+        "c760237f74bcc7e3f90ad956086edb66": {
+            "text": "horas"
+        },
+        "44fdec47036f482b68b748f9d786801b": {
+            "text": "dias"
+        },
+        "ae60f11ab51860bdb22794a943335a34": {
+            "text": "semanas"
+        },
+        "da36cfaf48b9e19896e23e1207040d1e": {
+            "text": "meses"
+        },
+        "75aeb98e5241592ad6a6c2c4c78a16ef": {
+            "text": "anos"
+        },
+        "a9f0e61a137d86aa9db53465e0801612": {
+            "text": "segundo"
+        },
+        "0a7d55be9d12a369a6a8da0fb517fba4": {
+            "text": "minuto"
+        },
+        "896c55cc5e46fab38ce9f51ebf7bfcd3": {
+            "text": "hora"
+        },
+        "783e8e29e6a8c3e22baa58a19420eb4f": {
+            "text": "segundos"
+        },
+        "640fd0cc0ffa0316ae087652871f4486": {
+            "text": "minutos"
+        },
+        "73cdddd7730abfc13a55efb9f5685a3b": {
+            "text": "horas"
+        },
+        "86f5978d9b80124f509bdb71786e929e": {
+            "text": "Janeiro"
+        },
+        "659e59f062c75f81259d22786d6c44aa": {
+            "text": "Fevereiro"
+        },
+        "fa3e5edac607a88d8fd7ecb9d6d67424": {
+            "text": "Mar\u00e7o"
+        },
+        "3fcf026bbfffb63fb24b8de9d0446949": {
+            "text": "Abril"
+        },
+        "195fbb57ffe7449796d23466085ce6d8": {
+            "text": "Maio"
+        },
+        "688937ccaf2a2b0c45a1c9bbba09698d": {
+            "text": "Junho"
+        },
+        "1b539f6f34e8503c97f6d3421346b63c": {
+            "text": "Julho"
+        },
+        "41ba70891fb6f39327d8ccb9b1dafb84": {
+            "text": "Agosto"
+        },
+        "cc5d90569e1c8313c2b1c2aab1401174": {
+            "text": "Setembro"
+        },
+        "eca60ae8611369fe28a02e2ab8c5d12e": {
+            "text": "Outubro"
+        },
+        "7e823b37564da492ca1629b4732289a8": {
+            "text": "Novembro"
+        },
+        "82331503174acbae012b2004f6431fa5": {
+            "text": "Dezembro"
+        },
+        "6f8522e0610541f1ef215a22ffa66ff6": {
+            "text": "Segunda-feira"
+        },
+        "5792315f09a5d54fb7e3d066672b507f": {
+            "text": "Ter\u00e7a-feira"
+        },
+        "796c163589f295373e171842f37265d5": {
+            "text": "Quarta-feira"
+        },
+        "78ae6f0cd191d25147e252dc54768238": {
+            "text": "Quinta-feira"
+        },
+        "c33b138a163847cdb6caeeb7c9a126b4": {
+            "text": "Sexta-feira"
+        },
+        "8b7051187b9191cdcdae6ed5a10e5adc": {
+            "text": "S\u00e1bado"
+        },
+        "9d1a0949c39e66a0cd65240bc0ac9177": {
+            "text": "Domingo"
+        },
+        "cf4b0ccfeee3caa423846ed7ff56e723": {
+            "text": "Novembro"
+        },
+        "44762ee79035f8945f6d4d9a00f06b36": {
+            "text": "Fev"
+        },
+        "7d97ebcdc4b5042e7106f9d255cbea82": {
+            "text": "Abr"
+        },
+        "4613b9100e2834c58bad58f214c8c277": {
+            "text": "Mai"
+        },
+        "694900da2fbfb150ce127447b49945fc": {
+            "text": "Ago"
+        },
+        "66c5ca1e3a6b2841e8f97d1e259bbba5": {
+            "text": "Set"
+        },
+        "3e0e4b73d7bd654afb1e18ff1416ce3e": {
+            "text": "Out"
+        },
+        "d94865ae276ccda93d7c2245a7821349": {
+            "text": "Dez"
+        },
+        "bbeedef992a6828105dd1fd4f77223a6": {
+            "text": "Seg"
+        },
+        "fff18cc5f262384f35b6d681d8763114": {
+            "text": "Ter"
+        },
+        "82dc52827a868010435c19cf1bbd769e": {
+            "text": "Qua"
+        },
+        "af5a6a7b15dd99b3a9adf4d0926e99ba": {
+            "text": "Qui"
+        },
+        "6ebf04c88a3ad9330e022afa0547c6d6": {
+            "text": "Sex"
+        },
+        "120699eb7d14e7420feeb2ee84eba0a3": {
+            "text": "Sab"
+        },
+        "12a6119c682a70e899c62345ff5842fd": {
+            "text": "Dom"
+        },
+        "adab7b701f23bb82014c8506d3dc784e": {
+            "text": "h"
+        }
+    }
+}

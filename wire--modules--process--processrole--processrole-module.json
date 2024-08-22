@@ -1,0 +1,99 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Que tipos de p\u00e1ginas esta fun\u00e7\u00e3o pode visualizar?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Que tipos de p\u00e1ginas esta fun\u00e7\u00e3o pode editar?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "A quais tipos de p\u00e1ginas essa fun\u00e7\u00e3o pode adicionar filhos?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Que tipos de p\u00e1ginas esta fun\u00e7\u00e3o pode criar?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Se voc\u00ea deseja adicionar {permiss\u00e3o} apenas a templates espec\u00edficos, marque as caixas abaixo para os templates que voc\u00ea deseja adicionar, e deixe a permiss\u00e3o {permiss\u00e3o} desmarcada."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "A permiss\u00e3o {permiss\u00e3o} est\u00e1 marcada, aplicando-se a todos os templates que s\u00e3o edit\u00e1veis para o papel. Para revogar a permiss\u00e3o {permiss\u00e3o} de templates espec\u00edficos, marque as caixas abaixo. Para adicionar esta permiss\u00e3o apenas a templates espec\u00edficos, desmarque a permiss\u00e3o {permiss\u00e3o} primeiro."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Observe que a fun\u00e7\u00e3o tamb\u00e9m deve ter permiss\u00e3o de edi\u00e7\u00e3o de p\u00e1gina para quaisquer modelos verificados acima."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "A maioria das permiss\u00f5es que podem ser atribu\u00eddas por modelo tamb\u00e9m requer que o usu\u00e1rio tenha permiss\u00e3o de edi\u00e7\u00e3o de p\u00e1gina para o modelo. Se um modelo necess\u00e1rio n\u00e3o estiver listado, voc\u00ea deve habilitar o controle de acesso para ele primeiro (veja a aba \u201cAcesso\u201d ao editar um modelo)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "Ao contr\u00e1rio da maioria das outras permiss\u00f5es, a permiss\u00e3o de edi\u00e7\u00e3o de p\u00e1gina de um modelo n\u00e3o \u00e9 um pr\u00e9-requisito para essa permiss\u00e3o."
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "Os modelos com um asterisco (*) s\u00e3o configurados para que as permiss\u00f5es relacionadas \u00e0 edi\u00e7\u00e3o tamb\u00e9m sejam herdadas pelos filhos e por meio da \u00e1rvore de p\u00e1ginas, a menos que\/at\u00e9 que sejam substitu\u00eddos por uma p\u00e1gina usando um modelo com acesso controlado diferente."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "Essa permiss\u00e3o tamb\u00e9m \u00e9 herdada para os filhos e por meio da \u00e1rvore de p\u00e1ginas, a menos que\/at\u00e9 que seja substitu\u00edda por uma p\u00e1gina usando um modelo de acesso controlado diferente."
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Nota: a fun\u00e7\u00e3o de superusu\u00e1rio sempre possui todas as permiss\u00f5es, portanto o campo de permiss\u00f5es n\u00e3o \u00e9 mostrado."
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permiss\u00f5es"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Para obter descri\u00e7\u00f5es detalhadas dessas permiss\u00f5es, consulte a [refer\u00eancia de permiss\u00f5es](%s)."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "nome|descri\u00e7\u00e3o|"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Adicionar filhos a p\u00e1ginas usando modelo"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Crie p\u00e1ginas usando modelo"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "Esta permiss\u00e3o s\u00f3 pode ser atribu\u00edda por modelo."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(obrigat\u00f3rio)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Essa permiss\u00e3o \u00e9 necess\u00e1ria para todas as fun\u00e7\u00f5es."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "aplica-se a todos os modelos edit\u00e1veis"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s adicionado pelo modelo %2$s, clique para editar"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s revogado pelo modelo %2$s, clique para editar"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Marcar esta caixa adiciona a permiss\u00e3o para todos os templates edit\u00e1veis, mas esta permiss\u00e3o j\u00e1 est\u00e1 sendo aplicada separadamente por um ou mais templates. Para manter as coisas organizadas, sugerimos remover a permiss\u00e3o desses templates antes de habilit\u00e1-la para todos. Tem certeza de que deseja habilit\u00e1-la agora?"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(obrigat\u00f3rio porque herdado da fun\u00e7\u00e3o de convidado)"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Adicionar a: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Revogar de: %s"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Clique para abrir\/fechar configura\u00e7\u00f5es de permiss\u00e3o por modelo"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Permiss\u00e3o \u201c%1$s\u201d para o modelo \u201c%2$s\u201d n\u00e3o permitida (requer permiss\u00e3o \u201c%3$s\u201d)"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Fun\u00e7\u00f5es"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Gerenciar fun\u00e7\u00f5es de usu\u00e1rio e quais permiss\u00f5es est\u00e3o anexadas"
+        }
+    }
+}

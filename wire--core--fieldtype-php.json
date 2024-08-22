@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Autojun\u00e7\u00e3o"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Se marcado, os dados deste campo ser\u00e3o carregados com cada inst\u00e2ncia da p\u00e1gina, independentemente de ela ser usada no momento. Se desmarcado, os dados ser\u00e3o carregados sob demanda e somente quando o campo for acessado especificamente."
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Se marcado, TODAS as p\u00e1ginas dever\u00e3o ter este campo. Ele ser\u00e1 adicionado automaticamente a quaisquer grupos de campos\/modelos que ainda n\u00e3o o tenham. Isso n\u00e3o significa que um valor seja obrigat\u00f3rio no campo, apenas que o campo edit\u00e1vel existir\u00e1 em todas as p\u00e1ginas."
+        },
+        "cacb4064843717606a3301b974b6f959": {
+            "text": "Valor n\u00e3o permitido para o campo \u201c%s\u201d porque j\u00e1 est\u00e1 em uso"
+        }
+    }
+}

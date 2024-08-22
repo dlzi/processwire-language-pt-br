@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Contagem"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Modelo"
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "V\u00e1rias p\u00e1ginas (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "P\u00e1gina \u00fanica (P\u00e1gina) ou booleano falso quando nenhuma est\u00e1 selecionada"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "P\u00e1gina \u00fanica (Page) ou p\u00e1gina vazia (NullPage) quando nenhuma est\u00e1 selecionada"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Tipo de valor do campo de p\u00e1gina"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Se o seu campo conter v\u00e1rias p\u00e1ginas, voc\u00ea dever\u00e1 selecionar a primeira op\u00e7\u00e3o (PageArray). Se o seu campo precisar conter apenas uma \u00fanica p\u00e1gina, selecione uma das op\u00e7\u00f5es de p\u00e1gina \u00fanica (se n\u00e3o tiver certeza de qual, selecione a \u00faltima op\u00e7\u00e3o)."
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Exemplos de uso de API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "O mesmo que acima com sintaxe alternativa"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Mais sobre o m\u00e9todo %s."
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Permitir p\u00e1ginas n\u00e3o publicadas?"
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "Quando marcado, p\u00e1ginas n\u00e3o publicadas ser\u00e3o selecion\u00e1veis para entrada e permitidas no valor do campo *unformatted*. Ainda assim, elas ser\u00e3o exclu\u00eddas do valor do campo *formatted*, de qualquer maneira."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "N\u00e3o foi poss\u00edvel encontrar a p\u00e1gina"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "N\u00e3o foi poss\u00edvel encontrar o modelo"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Encontre e limpe refer\u00eancias de p\u00e1ginas \u00f3rf\u00e3s"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Isso resolve um problema em vers\u00f5es mais antigas do ProcessWire que poderia deixar refer\u00eancias de p\u00e1gina \u00f3rf\u00e3s para p\u00e1ginas deletadas. Se voc\u00ea est\u00e1 obtendo resultados imprecisos em opera\u00e7\u00f5es de busca de p\u00e1ginas (especialmente com seletores usando pageref.count), ent\u00e3o voc\u00ea pode querer executar isso."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Aviso: Por seguran\u00e7a, voc\u00ea deve fazer backup do seu banco de dados antes de executar isso."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Localizando e limpando..."
+        }
+    }
+}

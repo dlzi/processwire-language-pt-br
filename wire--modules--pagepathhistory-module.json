@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Idade m\u00ednima (segundos)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Come\u00e7ar a registrar o hist\u00f3rico de uma p\u00e1gina ap\u00f3s tantos segundos de sua cria\u00e7\u00e3o. Pelo menos 2 ou mais segundos recomendados."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Padr\u00e3o: %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "%d caminhos hist\u00f3ricos de p\u00e1ginas exclu\u00eddos"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Excluir todo o hist\u00f3rico do caminho da p\u00e1gina?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Atualmente existem %d caminhos hist\u00f3ricos de p\u00e1ginas no banco de dados."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Tem certeza?"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Esta informa\u00e7\u00e3o \u00e9 usada para redirecionamentos autom\u00e1ticos e mais. N\u00e3o pode ser recuperada uma vez deletada. Marque a caixa para confirmar que voc\u00ea realmente deseja fazer isso."
+        }
+    }
+}

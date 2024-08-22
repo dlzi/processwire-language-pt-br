@@ -1,0 +1,105 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
+    "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
+    "translations": {
+        "7cdd12aae1c258859c039c4d544338ef": {
+            "text": "Meus favoritos"
+        },
+        "7f4b49b68a661359eaa86b12fd09cdce": {
+            "text": "Favoritos p\u00fablicos"
+        },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "voc\u00ea"
+        },
+        "4195dd0db33f6f97904fd72fa4386de9": {
+            "text": "Marque a caixa para confirmar que deseja excluir este favorito"
+        },
+        "bfa974ff994bf6af816d695d88659fda": {
+            "text": "Excluir este favorito?"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "1dd63dcbc0f27a97c60433bff0936901": {
+            "text": "Editar Favorito"
+        },
+        "149e49fd8162d8224947dfe253a802b5": {
+            "text": "Adicionar Novo Favorito"
+        },
+        "a84bed79c3b725dbbd17b6c4b8337a17": {
+            "text": "Cria um novo favorito que corresponde aos seus filtros, colunas e ordem atuais."
+        },
+        "d448b4319171ecbd0c92be8ddbff245b": {
+            "text": "Tipo de Favorito"
+        },
+        "47f9082fc380ca62d531096aa1d110f1": {
+            "text": "Privado"
+        },
+        "3d067bedfe2f4677470dd6ccf64d05ed": {
+            "text": "P\u00fablico"
+        },
+        "644a574fca8608c6447c23ba5c9fb907": {
+            "text": "Quais fun\u00e7\u00f5es de usu\u00e1rio ver\u00e3o este favorito? Se nenhuma fun\u00e7\u00e3o de usu\u00e1rio for selecionada, todas as fun\u00e7\u00f5es com permiss\u00e3o para usar este Lister poder\u00e3o ver o favorito."
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Permitir que outros usu\u00e1rios acessem este URL de favorito?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Se voc\u00ea enviar o URL do favorito para algu\u00e9m que j\u00e1 est\u00e1 logado no admin, ele poder\u00e1 ver o favorito se voc\u00ea marcar esta caixa."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "URL de favorito compartilh\u00e1vel: [Visualizar](%s)"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "Ordem"
+        },
+        "6756b991b141463aebfaa74809adb83c": {
+            "text": "Favorito exclu\u00eddo"
+        },
+        "4192fc415b996e703cd7368de70024b2": {
+            "text": "O favorito n\u00e3o pode ser exclu\u00eddo"
+        },
+        "84233339a29fc410e77ac95e377b0318": {
+            "text": "Favoritos"
+        },
+        "bdb19863504282bccbd04237092c8ecb": {
+            "text": "Favorito"
+        },
+        "611554e91bd3fc300cb89db36b831c82": {
+            "text": "Descri\u00e7\u00e3o"
+        },
+        "0a88328254c6d3104aaf5aa1416e5493": {
+            "text": "Acesso"
+        },
+        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
+            "text": "A\u00e7\u00f5es"
+        },
+        "97d0cf512abc18c75dc4200fb4102696": {
+            "text": "todos"
+        },
+        "3964c1856a3770efc8de99fb7d71854f": {
+            "text": "Visualizar"
+        },
+        "2403884dadada347eaf8537a2dc0e572": {
+            "text": "Modificar"
+        },
+        "2ae0c04d53921492ca01d03f4913b75b": {
+            "text": "Excluir"
+        },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "T\u00edtulo"
+        },
+        "997a44675b11fac14a95280eda5557f5": {
+            "text": "Descri\u00e7\u00e3o"
+        },
+        "8ca63fc5a95e5a226137f8dd03ad81f0": {
+            "text": "Quais p\u00e1ginas este favorito deve mostrar?"
+        },
+        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
+            "text": "Colunas"
+        },
+        "a68194569adc7b00a73840fceb912c24": {
+            "text": "Acesso"
+        }
+    }
+}

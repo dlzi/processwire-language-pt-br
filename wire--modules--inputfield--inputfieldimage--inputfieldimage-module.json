@@ -1,0 +1,141 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Recortar"
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Foco"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Varia\u00e7\u00f5es"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Dimens\u00f5es"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Tamanho do arquivo"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editar"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "arraste e solte novas imagens acima"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Este campo de imagens pode ter altera\u00e7\u00f5es n\u00e3o salvas que podem ser perdidas ap\u00f3s esta a\u00e7\u00e3o. Por favor, salve antes de recortar, ou clique duas vezes no bot\u00e3o para prosseguir mesmo assim."
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Visibilidade"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Oculto"
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "coloque um novo arquivo de imagem para substituir"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "arraste o c\u00edrculo para o centro do foco"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Existem imagens de visualiza\u00e7\u00e3o em miniatura mais antigas\/de baixa qualidade acima \u2013 marque esta caixa para recri\u00e1-las."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Imagem inv\u00e1lida"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "A imagem de %s n\u00e3o atende aos requisitos m\u00ednimos de tamanho"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "A imagem de %s excede o tamanho m\u00e1ximo permitido"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Imagem redimensionada para se ajustar \u00e0s dimens\u00f5es m\u00e1ximas permitidas"
+        },
+        "180481333cbd9cb56beaae68deab6541": {
+            "text": "Clique para renomear"
+        },
+        "3311dff3fd166c37c1bf2e9014cdee71": {
+            "text": "Originalmente:"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "N\u00e3o edit\u00e1vel."
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "A\u00e7\u00f5es"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "A\u00e7\u00e3o aplicada ao salvar."
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "Virar"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Girar"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Duplicar"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Remover varia\u00e7\u00f5es"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Reconstruir varia\u00e7\u00f5es"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Remover foco"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "vertical"
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "horizontal"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "ambos"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Copiar"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Colar"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "Reduzir 50%"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "P&B"
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "S\u00e9pia"
+        },
+        "62a5e490880a92eef74f167d9dc6dca0": {
+            "text": "Ocultar"
+        },
+        "c41263e9868393a11717a8fd89de95f8": {
+            "text": "Mostrar"
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Recriadas todas as miniaturas legadas"
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "Arquivo duplicado %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "A\u00e7\u00e3o executada \u201c%1$s\u201d no arquivo %2$s"
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "Falha na a\u00e7\u00e3o \u201c%1$s\u201d no arquivo %2$s"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "Nenhum manipulador encontrado para a a\u00e7\u00e3o \u201c%1$s\u201d no arquivo %2$s"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Imagens"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Um ou mais uploads de imagens (orden\u00e1veis)"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectCommon.php",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectcommon-php",
+    "translations": {
+        "3c472536e5f2ba17397ad099bf7bea1f": {
+            "text": "P\u00e1gina %d n\u00e3o vis\u00edvel"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel renderizar este campo devido \u00e0 falta da p\u00e1gina pai nas configura\u00e7\u00f5es do campo."
+        }
+    }
+}

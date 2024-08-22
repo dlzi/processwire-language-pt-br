@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefaultHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefaulthelpers-php",
+    "translations": {
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "\u00c1rvore"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Ver site"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Perfil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Sair"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar novo"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "PARA TRADUTORES: por favor, traduza o arquivo \/wire\/templates-admin\/default.php ao inv\u00e9s deste."
+        },
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "Ferramentas do Modo de Depura\u00e7\u00e3o"
+        }
+    }
+}

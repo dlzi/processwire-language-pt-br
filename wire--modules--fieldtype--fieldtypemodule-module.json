@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Tipos de M\u00f3dulos"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Verifique todos os tipos de m\u00f3dulos que podem ser selecion\u00e1veis neste campo."
+        },
+        "17ef61026679e3483b3aebd3e9a2502c": {
+            "text": "Tipo de correspond\u00eancia de m\u00f3dulo"
+        },
+        "716de874a0d74f25c0aa8c444c3a7539": {
+            "text": "Prefixo"
+        },
+        "e40489cd1e7102e35469c937e05c8bba": {
+            "text": "Heran\u00e7a"
+        },
+        "9a90458e160aa0a5d2615a97caec6854": {
+            "text": "A op\u00e7\u00e3o de prefixo \u00e9 recomendada para melhor desempenho, a menos que n\u00e3o corresponda ao m\u00f3dulo pretendido."
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Tornar este campo uma inst\u00e2ncia do m\u00f3dulo selecionado?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Se marcado, o valor do campo ser\u00e1 uma inst\u00e2ncia real do m\u00f3dulo selecionado. Se n\u00e3o estiver marcado, o valor do campo ser\u00e1 uma cadeia de caracteres contendo o nome da classe do m\u00f3dulo."
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Etiqueta de Op\u00e7\u00f5es"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "T\u00edtulo"
+        },
+        "3d0e52e8f34a293de17317f094e676b6": {
+            "text": "T\u00edtulo e resumo"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Tipo de Entrada"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecione"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "R\u00e1dios"
+        },
+        "daf361912b4d4260a6a0c3dc31a60312": {
+            "text": "Mostrar uma op\u00e7\u00e3o \u201cNenhum\u201d?"
+        },
+        "1177fb816ddc2935c2a8bc55d22b93b1": {
+            "text": "Tipo de valor em branco"
+        }
+    }
+}

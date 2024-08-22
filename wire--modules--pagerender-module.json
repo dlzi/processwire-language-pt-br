@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Cache de p\u00e1gina expirado para todo o site"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Arquivo de cache limpo:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Arquivo de cache limpo para %d p\u00e1gina(s)"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Foram limpos %d arquivos de cache de %d p\u00e1ginas"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Limpar o cache do disco de renderiza\u00e7\u00e3o de p\u00e1gina?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Existem atualmente %d p\u00e1ginas armazenadas em cache em %s"
+        },
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Renderiza\u00e7\u00e3o de P\u00e1gina"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Adiciona um m\u00e9todo de renderiza\u00e7\u00e3o \u00e0 P\u00e1gina e faz cache da sa\u00edda da p\u00e1gina."
+        }
+    }
+}

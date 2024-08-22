@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/Modules.php",
+    "textdomain": "wire--core--modules-php",
+    "translations": {
+        "3919fe955716c54c409b522a1003f3e0": {
+            "text": "Voc\u00ea n\u00e3o tem permiss\u00e3o para executar este m\u00f3dulo"
+        },
+        "0a6712f704d759c81cdc4416397e7faf": {
+            "text": "Falha ao construir o m\u00f3dulo: %s"
+        }
+    }
+}

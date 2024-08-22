@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Nome de Login do Usu\u00e1rio"
+        },
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Perfil:"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "Por seguran\u00e7a, digite sua senha atual para salvar estas altera\u00e7\u00f5es:"
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "O nome de usu\u00e1rio pode conter letras min\u00fasculas a-z, 0-9, h\u00edfen ou sublinhado."
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Perfil n\u00e3o salvo"
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "A senha obrigat\u00f3ria foi fornecida, mas n\u00e3o est\u00e1 correta"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "A senha obrigat\u00f3ria n\u00e3o foi fornecida"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "Endere\u00e7o de e-mail \"%s\" j\u00e1 em uso por outro usu\u00e1rio."
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Perfil salvo"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "N\u00e3o permitido"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Sanitizado para \u201c%s\u201d, que \u00e9 diferente do que voc\u00ea digitou"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Muito curto"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Muito longo"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Em uso"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "N\u00e3o pode come\u00e7ar ou terminar com caracteres n\u00e3o alfab\u00e9ticos e sem d\u00edgitos"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "N\u00e3o pode conter hifens, sublinhados ou pontos adjacentes"
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Quais campos um usu\u00e1rio pode editar em seu pr\u00f3prio perfil?"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "R\u00f3tulo"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tipo"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Perfil de usu\u00e1rio"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Permite que o usu\u00e1rio altere sua senha, endere\u00e7o de e-mail e outras configura\u00e7\u00f5es definidas por voc\u00ea."
+        }
+    }
+}

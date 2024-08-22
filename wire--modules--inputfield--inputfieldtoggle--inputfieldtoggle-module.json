@@ -1,0 +1,87 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldToggle\/InputfieldToggle.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtoggle--inputfieldtoggle-module",
+    "translations": {
+        "f827cf462f62848df37c5e1e94a4da74": {
+            "text": "Verdadeiro"
+        },
+        "f8320b26d30ab433c5a54546d21f414c": {
+            "text": "Falso"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Sobre"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Desligado"
+        },
+        "00d23a76e43b46dae9ec7aa9dcbebb32": {
+            "text": "Habilitado"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desabilitado"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Sim"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "6311ae17c1ee52b36e68aaf4ad066387": {
+            "text": "Outro"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Desconhecido"
+        },
+        "948b771f7576e90d4ea82d5a93969880": {
+            "text": "Alternar r\u00f3tulos de campo e configura\u00e7\u00f5es de entrada"
+        },
+        "1ca83672206c28e209344caf672a09eb": {
+            "text": "Tipo de etiqueta"
+        },
+        "90589c47f06eb971d548591f23c285af": {
+            "text": "Personalizado"
+        },
+        "c020238f8af7f5e4de9ff715998b455d": {
+            "text": "Tipo de entrada"
+        },
+        "031b7752675742895ea88530c9f4ca5a": {
+            "text": "Bot\u00f5es de altern\u00e2ncia"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "R\u00e1dios"
+        },
+        "bcdf2d471f1f386766650d51026d44b5": {
+            "text": "Usar uma terceira op\u00e7\u00e3o \u201coutro\u201d?"
+        },
+        "eab912c80198d0b053074213f8b04c8f": {
+            "text": "Reverter a ordem das op\u00e7\u00f5es sim\/n\u00e3o?"
+        },
+        "b277db245e021ba7bd5c260212209a2d": {
+            "text": "Suporte para clique para desmarcar?"
+        },
+        "d9355820e8ad0fce6eba1b92496e8894": {
+            "text": "sim\/ligado"
+        },
+        "d267c637e1512d1c35009144d1606695": {
+            "text": "n\u00e3o\/desligado"
+        },
+        "63e5188e48c8bc8a4a58ab9dc8b0c5cc": {
+            "text": "R\u00f3tulo para a op\u00e7\u00e3o \u201c%s\u201d"
+        },
+        "795f3202b17cb6bc3d4b771d8c6c9eaf": {
+            "text": "outro"
+        },
+        "1b7fb782957d1005d7bac0e7729deece": {
+            "text": "Op\u00e7\u00e3o selecionada por padr\u00e3o"
+        },
+        "b6c7e5d7bc51d1f824ce334cb0a67021": {
+            "text": "Nenhuma sele\u00e7\u00e3o"
+        },
+        "a8875bbe4272c0bdd786cfaaedf77921": {
+            "text": "Alternar"
+        },
+        "b944099ecd935f9422ab4393811af776": {
+            "text": "Um alternador fornecendo capacidade de entrada semelhante a uma caixa de sele\u00e7\u00e3o, mas muito mais configur\u00e1vel."
+        }
+    }
+}

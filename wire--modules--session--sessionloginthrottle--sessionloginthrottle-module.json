@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "1e1e8e326d1d9a6a539b91fbe60a702a": {
+            "text": "Login n\u00e3o tentado devido ao excesso."
+        },
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "Por favor, aguarde pelo menos %d segundos antes de tentar outro login."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Limitar por endere\u00e7o IP?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Por padr\u00e3o, a limita\u00e7\u00e3o ser\u00e1 feita apenas pelo nome de usu\u00e1rio. Se voc\u00ea marcar esta caixa, a limita\u00e7\u00e3o tamb\u00e9m ser\u00e1 feita pelo endere\u00e7o IP. Recomendamos ativar essa op\u00e7\u00e3o se seus usu\u00e1rios n\u00e3o estiverem vindo de um endere\u00e7o IP compartilhado."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "N\u00famero de segundos para fazer o usu\u00e1rio esperar ap\u00f3s falha na tentativa de login"
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Esse n\u00famero \u00e9 multiplicado pelo n\u00famero de tentativas malsucedidas, de modo que cada tentativa malsucedida aumenta exponencialmente o tempo de espera. Como resultado, tenha cuidado ao definir um valor muito alto."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "N\u00famero m\u00e1ximo de segundos que um usu\u00e1rio teria que esperar antes de tentar outro login"
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Como o tempo de espera \u00e9 aumentado exponencialmente a cada tentativa, isso coloca um limite m\u00e1ximo no tempo de espera. Voc\u00ea deve deixar isso definido para um n\u00famero bastante alto."
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60=1 minuto, 300=5 minutos, 600=10 minutos, 3600=1 hora, 86400=1 dia"
+        },
+        "8d20dfe684273bce0c81cab1de853cc9": {
+            "text": "Salvar no arquivo de log quando o nome\/IP estiver bloqueado?"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Clique para instalar:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Adicionar e configurar novos idiomas"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Altere o tipo do seu campo \"title\" de \"T\u00edtulo da P\u00e1gina\" para \"T\u00edtulo da P\u00e1gina (Multi-idioma)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Altere o tipo de quaisquer outros campos \"Texto\" desejados para \"Texto (Multi-idioma)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Altere o tipo de quaisquer outros campos \"Textarea\" desejados para \"Textarea (Multi-idioma)\""
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Pr\u00f3ximos passos"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Para continuar configurando o suporte a multi-idiomas, recomendamos os seguintes pr\u00f3ximos passos."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "Os links abaixo abrir\u00e3o em uma nova janela\/aba. Feche cada um ap\u00f3s terminar para retornar aqui."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Instale o m\u00f3dulo LanguageSupportFields antes de tentar alterar os tipos de campo de texto."
+        }
+    }
+}

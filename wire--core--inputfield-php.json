@@ -1,0 +1,114 @@
+{
+    "file": "wire\/core\/Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "efdf8051d64766330e13627274b01787": {
+            "text": "As condi\u00e7\u00f5es s\u00e3o expressas com um seletor \"campo=valor\" contendo campos e valores correspondentes. M\u00faltiplas condi\u00e7\u00f5es devem ser separadas por v\u00edrgula."
+        },
+        "33f354f096583d4fb4c01fa05670c1e6": {
+            "text": "Leia mais sobre [como usar isso](https:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Visibilidade"
+        },
+        "c7bc3fddddb62d5b656adc30cea77a55": {
+            "text": "Apresenta\u00e7\u00e3o"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Como este campo deve ser exibido no editor?"
+        },
+        "c3bf447eabe632720a3aa1a7ce401274": {
+            "text": "Aberto"
+        },
+        "0d2d71d5551271c673df720e61b08cf8": {
+            "text": "Aberto + N\u00e3o pode ser fechado"
+        },
+        "f89871ce31a971990070c480d4c257a6": {
+            "text": "Aberto + Bloqueado (n\u00e3o edit\u00e1vel)"
+        },
+        "5995da1dbd9a2df5487ab0324f2d4a01": {
+            "text": "Aberto quando preenchido + Fechado quando em branco"
+        },
+        "e75c5e5c17a86f893fac8d2b7b7a3762": {
+            "text": "Aberto quando preenchido + Fechado quando em branco + Carregar apenas quando aberto (AJAX)"
+        },
+        "3a28674fd51f34234723d80de10c6382": {
+            "text": "Aberto quando preenchido + Fechado quando em branco + Bloqueado (n\u00e3o edit\u00e1vel)"
+        },
+        "2f6f6a0f0c4157d8a5174b75063ba0e2": {
+            "text": "Aberto quando em branco + Fechado quando preenchido"
+        },
+        "03f4a47830f97377a35321051685071e": {
+            "text": "Fechado"
+        },
+        "3567554c6ab1f1648a4b4ecbbbb4733d": {
+            "text": "Fechado + Bloqueado (n\u00e3o edit\u00e1vel)"
+        },
+        "9101591614e0d079e052d9cbf4e1c203": {
+            "text": "Fechado + Carregar apenas quando aberto (AJAX)"
+        },
+        "cb6df4e080dea0319f74d565e587c2b5": {
+            "text": "Op\u00e7\u00f5es indicadas com %s podem n\u00e3o funcionar com todos os tipos de entrada ou posicionamentos, teste para garantir a compatibilidade."
+        },
+        "5c6ba25104401c9ee0650230fc6ba413": {
+            "text": "Aba"
+        },
+        "8b046be7dfb9e9164cec9e405df4f690": {
+            "text": "Aba + Carregar apenas quando clicado (AJAX)"
+        },
+        "9e7fc336ff0486af8f5a7ac2f0d99fc8": {
+            "text": "Aba + Bloqueado (n\u00e3o edit\u00e1vel)"
+        },
+        "2145d1256ac3cfac3444b42d04572b4e": {
+            "text": "Oculto (n\u00e3o mostrado no editor)"
+        },
+        "44158720c6f7deaff17b2430d3d31254": {
+            "text": "Mostrar este campo apenas se"
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "Digite as condi\u00e7\u00f5es sob as quais o campo ser\u00e1 exibido."
+        },
+        "b26d2db211d5748ab5ca3f2b5124e63a": {
+            "text": "Largura da coluna (%d%%)"
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "A largura percentual do cont\u00eainer deste campo (10%-100%). Se colocado pr\u00f3ximo a outros campos com larguras reduzidas, criar\u00e1 colunas flutuantes."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "Observe que nem todos os campos funcionar\u00e3o com larguras reduzidas, ent\u00e3o voc\u00ea deve testar o resultado ap\u00f3s a altera\u00e7\u00e3o."
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "Obrigat\u00f3rio?"
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Se marcado, um valor ser\u00e1 obrigat\u00f3rio para este campo."
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Tamb\u00e9m usar atributo \u201crequired\u201d do HTML5?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "Use apenas em campos *sempre* vis\u00edveis para o usu\u00e1rio."
+        },
+        "c1d71aa80e02ee67489431d11e5f58a8": {
+            "text": "Obrigat\u00f3rio apenas se"
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Digite as condi\u00e7\u00f5es sob as quais um valor ser\u00e1 obrigat\u00f3rio para este campo."
+        },
+        "83461cb3fcdceac6ebb0f4f01018c32b": {
+            "text": "Atributos de classe personalizados"
+        },
+        "aa7206164d3deb8791db7d56477e074f": {
+            "text": "Opcionalmente, adicione ao atributo da classe para elementos espec\u00edficos neste Inputfield."
+        },
+        "75f9791dccc88ab32c564ebcc8f5e225": {
+            "text": "O formato \u00e9 um por linha de `element:class` onde `element` \u00e9 um dos: \u201cwrap\u201d, \u201cheader\u201d, \u201ccontent\u201d ou \u201cinput\u201d e `class` \u00e9 um ou mais nomes de classes."
+        },
+        "03951db7c965cc772f329c01d37f6449": {
+            "text": "Se nenhum elemento for especificado, o elemento \u201cinput\u201d ser\u00e1 assumido."
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Exemplo:"
+        }
+    }
+}

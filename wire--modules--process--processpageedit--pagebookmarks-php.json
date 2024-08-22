@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Favoritos"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Editar favoritos"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "todos"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Atualmente n\u00e3o h\u00e1 favoritos definidos"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "todos"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Favoritos para: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "Editor de favoritos %s"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Observe que apenas superusu\u00e1rios podem ver este editor."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Adicionar Favorito"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Clique na a\u00e7\u00e3o \"adicionar favorito\" abaixo para selecionar p\u00e1gina(s) para adicionar como favoritos. Se voc\u00ea deseja que os favoritos apare\u00e7am apenas para uma fun\u00e7\u00e3o de usu\u00e1rio espec\u00edfica, primeiro selecione a fun\u00e7\u00e3o acima."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Favoritos salvos"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Permitir o uso de favoritos?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Favoritos permitem que voc\u00ea crie atalhos para p\u00e1ginas a partir deste m\u00f3dulo, configur\u00e1veis por fun\u00e7\u00e3o de usu\u00e1rio. \u00datil para grandes aplica\u00e7\u00f5es."
+        }
+    }
+}

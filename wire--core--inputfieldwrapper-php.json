@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/InputfieldWrapper.php",
+    "textdomain": "wire--core--inputfieldwrapper-php",
+    "translations": {
+        "d6a6d393040fe53b20243c9abeee036b": {
+            "text": "Valor obrigat\u00f3rio ausente"
+        },
+        "474306ce3c500f0bce3fb8891a2401cb": {
+            "text": "Alternar abrir\/fechar"
+        },
+        "c0cb5f0fcf239ab3d9c1fcd31fff1efc": {
+            "text": ","
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Escolher p\u00e1gina"
+        },
+        "63a11faa3a692d4e00fa8e03bbe8a0d6": {
+            "text": "Texto do link"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Link para URL"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Insira um URL, endere\u00e7o de email, \u00e2ncora ou insira palavras para encontrar uma p\u00e1gina."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Selecionar \u00c2ncora"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "\u00c2ncoras encontradas no texto que voc\u00ea est\u00e1 editando."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Selecionar P\u00e1gina"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Selecionar P\u00e1gina Filho"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Isso \u00e9 o mesmo que \"Selecionar P\u00e1gina\" acima, mas pode ser mais r\u00e1pido usar se estiver linkando para filhos da p\u00e1gina atual."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Atributos"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "T\u00edtulo"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Texto adicional para descrever o link."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Alvo"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Onde este link ser\u00e1 aberto."
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Rela\u00e7\u00e3o do link com o documento."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Classe"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Classes adicionais que podem afetar a apar\u00eancia ou o comportamento do link."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Voc\u00ea pode personalizar os atributos dispon\u00edveis mostrados acima nas configura\u00e7\u00f5es do m\u00f3dulo %s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "abrir em uma nova janela"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "diga aos mecanismos de pesquisa para n\u00e3o seguirem"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Selecionar Arquivo"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Mostrando arquivos na p\u00e1gina:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Selecione o arquivo desta p\u00e1gina ao qual voc\u00ea deseja vincular."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Para selecionar um arquivo de outra p\u00e1gina, clique em 'Selecionar P\u00e1gina' acima e escolha a p\u00e1gina da qual deseja selecionar um arquivo."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Op\u00e7\u00f5es de atributos"
+        },
+        "61cafe4d184180188afc6ae4ec17f4a3": {
+            "text": "Insira um dos atributos `value`, `value=label` ou `value=\"label\"` por linha (veja as notas para detalhes)."
+        },
+        "5bc6b41974c85a4c0c1294baa5c1df6b": {
+            "text": "O usu\u00e1rio poder\u00e1 selecionar essas op\u00e7\u00f5es ao adicionar links."
+        },
+        "4ab1b6e87b9bca976ee22a682f2b83ff": {
+            "text": "Para selecionar uma op\u00e7\u00e3o por padr\u00e3o (para novos links), preceda o valor com um sinal de mais \u201c+\u201d."
+        },
+        "6d30081bc30ae23fbca0a3266b239bc1": {
+            "text": "Para incluir r\u00f3tulos, especifique `value=label` para mostrar **\u201cvalor (r\u00f3tulo)\u201d** para cada op\u00e7\u00e3o selecion\u00e1vel."
+        },
+        "c1911c8116edd857ca7ade57e8e6dbb6": {
+            "text": "Ou especifique `value=\"label\"` (r\u00f3tulo entre aspas) para mostrar apenas **\u201clabel\u201d** (ocultando o valor) para cada op\u00e7\u00e3o selecion\u00e1vel."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Atributos de link externo"
+        },
+        "e9dddc56cb31e7187911409b28313905": {
+            "text": "Especifique os atributos selecionados por padr\u00e3o que ser\u00e3o automaticamente preenchidos quando um link externo for detectado."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Se usado, o valor deve ser um que voc\u00ea tenha predefinido acima."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Exemplo: Especificar **nofollow** faria com que links externos n\u00e3o fossem seguidos por motores de busca por padr\u00e3o."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Exemplo: Especificar **_blank** tornaria os links externos padr\u00e3o para abrir em uma nova janela."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Tipo de URL para links de p\u00e1ginas"
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "Caminho completo\/absoluto da raiz (padr\u00e3o)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "URLs relativos apenas nas mesmas ramifica\u00e7\u00f5es"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "URLs relativos sempre"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*Atualmente experimental"
+        },
+        "9491696e5b7bee831c2ec3a3c7459b0b": {
+            "text": "Desativar o recurso de edi\u00e7\u00e3o de texto do link?"
+        },
+        "22b321657da8101c6637060a8dbd0e37": {
+            "text": "Desativa o recurso \u201cEditar texto do link\u201d, permitindo oferecer suporte a links que podem conter marca\u00e7\u00f5es existentes."
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "="
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "="
+        }
+    }
+}

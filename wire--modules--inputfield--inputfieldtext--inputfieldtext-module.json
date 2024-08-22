@@ -1,0 +1,105 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldText\/InputfieldText.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtext--inputfieldtext-module",
+    "translations": {
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 palavra"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d palavras"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 caractere"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d caracteres"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(no m\u00ednimo %d necess\u00e1rios)"
+        },
+        "3c5d93eab9cf5f9c46905bcf44e863af": {
+            "text": "N\u00e3o corresponde ao padr\u00e3o exigido"
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "S\u00e3o necess\u00e1rios no m\u00ednimo %1$d caracteres (atualmente existem %2$d caracteres)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "O valor excedeu o comprimento m\u00e1ximo permitido de %d caracteres e foi truncado."
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Comprimento m\u00ednimo"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "O comprimento m\u00ednimo (em caracteres) exigido por este campo."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Se o campo n\u00e3o for \u201cobrigat\u00f3rio\u201d, o comprimento m\u00ednimo s\u00f3 \u00e9 aplicado quando um valor est\u00e1 presente."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Comprimento m\u00e1ximo"
+        },
+        "a4965347ff8523a66897b92fec81e04e": {
+            "text": "O comprimento m\u00e1ximo (em caracteres) permitido por este campo."
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "Um valor de \u201c0\u201d indica sem m\u00e1ximo."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Contador"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Sem contador"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Contador de caracteres"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Contador de palavras"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "\u00c9 recomendado que voc\u00ea mostre um contador de caracteres ao usar as configura\u00e7\u00f5es de comprimento m\u00ednimo\/m\u00e1ximo acima."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Tamanho"
+        },
+        "7fcc26bcb0e9d85b555592f97cde9539": {
+            "text": "A largura exibida deste campo (em caracteres). Defina como 0 para largura total."
+        },
+        "0c576bc57cb2f57f4a2632d59599c26e": {
+            "text": "Remover Tags"
+        },
+        "e79dbc99408f4949cb46ad5b73c7408a": {
+            "text": "Quando marcado, qualquer tag HTML ser\u00e1 removida da entrada quando o formul\u00e1rio for processado."
+        },
+        "e69230ccdb60475aa38ea2c4cdc72ea0": {
+            "text": "Isso \u00e9 recomendado se o campo n\u00e3o precisar suportar HTML."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Texto Placeholder"
+        },
+        "dc08a8f73b667ceb56b5a22449e41d3e": {
+            "text": "Frase opcional de texto que aparece no campo quando est\u00e1 em branco."
+        },
+        "57391192dfa1f247ad015a0fe2eca48e": {
+            "text": "Padr\u00e3o"
+        },
+        "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
+            "text": "Padr\u00e3o opcional de express\u00e3o regular a ser exigido na entrada. Isso \u00e9 usado tanto no lado do cliente (atributo HTML5 pattern) quanto no lado do servidor para valida\u00e7\u00e3o. Certifique-se de fornecer um exemplo do padr\u00e3o exigido na descri\u00e7\u00e3o do campo."
+        },
+        "27615527f65d7d865a330397568fe263": {
+            "text": "Consulte [html5pattern.com](http:\/\/html5pattern.com) para obter exemplos de padr\u00f5es que voc\u00ea pode usar e criar."
+        },
+        "68adfe27201a615848e5da595ae9f690": {
+            "text": "Valor Inicial"
+        },
+        "c3924ea34ee91e9de3ff80493fce8527": {
+            "text": "Valor inicial\/padr\u00e3o opcional pr\u00e9-preenchido para o usu\u00e1rio."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Texto"
+        },
+        "03272093fac940815539048b032444ea": {
+            "text": "Linha \u00fanica de texto"
+        }
+    }
+}

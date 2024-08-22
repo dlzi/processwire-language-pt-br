@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Conjunto de cores"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Cl\u00e1ssico"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Azul"
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Imagens do usu\u00e1rio"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Para usar este recurso, seu(s) modelo(s) de usu\u00e1rio precisa(m) ter um campo de imagem. Se seu(s) modelo(s) de usu\u00e1rio n\u00e3o tiver(em) um campo de imagem, o avatar ser\u00e1 padronizado para um \u00edcone. Para adicionar um campo de imagem ao modelo de usu\u00e1rio padr\u00e3o, v\u00e1 para Configura\u00e7\u00e3o > Modelos > Filtros (Mostrar Modelos do Sistema). O modelo \"user\" agora aparecer\u00e1 na lista. Se voc\u00ea criou um modelo de usu\u00e1rio adicional\/alternativo, voc\u00ea pode habilitar este recurso adicionando um campo de imagem a esse modelo."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "Campo de imagem para o modelo %s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "Nenhum campo de imagem atribu\u00eddo a este modelo"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Campo \"%s\" adicionado aos campos edit\u00e1veis pelo usu\u00e1rio em seu perfil."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Nomes de Exibi\u00e7\u00e3o do Usu\u00e1rio"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "Lista separada por v\u00edrgulas de campos a serem usados como nome de exibi\u00e7\u00e3o no admin. (exemplo: primeiro_nome, sobrenome)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Estes s\u00f3 podem ser campos de texto. Outros tipos de campo ser\u00e3o ignorados."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Nome de exibi\u00e7\u00e3o para o modelo %s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "\u00cdcones"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Especifique \u00edcones para itens de navega\u00e7\u00e3o"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Navega\u00e7\u00e3o Superior: Notifica\u00e7\u00f5es"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Navega\u00e7\u00e3o Superior: Ver P\u00e1gina Inicial"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Sair"
+        },
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "Tema de administra\u00e7\u00e3o para ProcessWire 2.5+ por Tom Reno (Renobird)"
+        }
+    }
+}

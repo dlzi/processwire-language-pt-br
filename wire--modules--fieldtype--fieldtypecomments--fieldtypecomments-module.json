@@ -1,0 +1,249 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desativado"
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Comportamento"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Nenhum - Coment\u00e1rios postados imediatamente"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Todos - Todos os coment\u00e1rios devem ser aprovados por usu\u00e1rio com acesso de edi\u00e7\u00e3o da p\u00e1gina"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Apenas Novos - Apenas coment\u00e1rios de usu\u00e1rios sem coment\u00e1rios aprovados anteriormente requerem aprova\u00e7\u00e3o"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Modera\u00e7\u00e3o dos coment\u00e1rios"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "Isso determina quando um coment\u00e1rio rec\u00e9m-postado aparecer\u00e1 em seu site."
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Redirecionar ap\u00f3s postagem de coment\u00e1rio?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Quando marcado, o ProcessWire emitir\u00e1 um redirecionamento ap\u00f3s a postagem do coment\u00e1rio para evitar envios duplos. Recomendado."
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Salvar silenciosamente?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Quando marcado, o tempo de modifica\u00e7\u00e3o da p\u00e1gina e o usu\u00e1rio n\u00e3o ser\u00e3o atualizados quando um coment\u00e1rio for adicionado."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Tipo de Notifica\u00e7\u00e3o"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "N\u00e3o enviar notifica\u00e7\u00f5es"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "Enviar notifica\u00e7\u00f5es para endere\u00e7o de e-mail espec\u00edfico"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "Enviar notifica\u00e7\u00f5es para o usu\u00e1rio que criou a p\u00e1gina"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "Enviar notifica\u00e7\u00f5es para usu\u00e1rio espec\u00edfico"
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "Notifica\u00e7\u00f5es"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "E-mail de notifica\u00e7\u00e3o do administrador"
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "Endere\u00e7o de e-mail a ser notificado quando um novo coment\u00e1rio for postado. Separe v\u00e1rios endere\u00e7os de e-mail com v\u00edrgulas ou espa\u00e7os."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "Usu\u00e1rios que receberem este e-mail ter\u00e3o a capacidade de aprovar ou negar posts diretamente atrav\u00e9s de links no e-mail."
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "Al\u00e9m de (ou em vez de) endere\u00e7os de e-mail, voc\u00ea tamb\u00e9m pode usar um ou mais dos seguintes:"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "1. Digite **user:karen** para enviar e-mail para um usu\u00e1rio espec\u00edfico, substituindo \"karen\" pelo nome do usu\u00e1rio real."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "2. Digite **field:email** para extrair o e-mail de um campo na p\u00e1gina, substituindo \"email\" pelo nome do campo contendo o endere\u00e7o de e-mail."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "3. Digite **123:email** para extrair o e-mail de um determinado ID de p\u00e1gina e nome de campo, substituindo \"123\" pelo ID da p\u00e1gina e \"email\" pelo nome do campo contendo o endere\u00e7o de e-mail."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "4. Digite **\/path\/to\/page:email** para puxar o e-mail de um dado caminho de p\u00e1gina e nome do campo, substituindo \"\/path\/to\/page\" pelo caminho da p\u00e1gina e \"email\" pelo nome do campo contendo o endere\u00e7o de e-mail."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "Notifica\u00e7\u00f5es por e-mail"
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Endere\u00e7o de e-mail opcional de onde as notifica\u00e7\u00f5es aparecer\u00e3o. Deixe em branco para usar o e-mail padr\u00e3o do servidor."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "Enviar notifica\u00e7\u00e3o por e-mail sobre spam?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Quando marcado, ProcessWire ainda enviar\u00e1 uma notifica\u00e7\u00e3o por e-mail, mesmo que a mensagem seja identificada como spam."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "Permitir notifica\u00e7\u00f5es por e-mail para comentaristas?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "Esta op\u00e7\u00e3o permite que qualquer pessoa que poste um coment\u00e1rio receba notifica\u00e7\u00f5es por e-mail sobre novos coment\u00e1rios."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "Os usu\u00e1rios podem receber notifica\u00e7\u00f5es por e-mail apenas de respostas aos seus coment\u00e1rios"
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "Os usu\u00e1rios podem receber notifica\u00e7\u00f5es por e-mail para todos os novos coment\u00e1rios na p\u00e1gina"
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Permitir texto de coment\u00e1rio nas notifica\u00e7\u00f5es?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Quando marcado, todo o texto do coment\u00e1rio tamb\u00e9m aparecer\u00e1 nos e-mails de notifica\u00e7\u00e3o, em vez de apenas um link para ele."
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "Usar o servi\u00e7o de filtro de spam Akismet?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Este servi\u00e7o identificar\u00e1 automaticamente a maioria dos spams. Antes de us\u00e1-lo, certifique-se de que voc\u00ea tenha inserido uma chave API do Akismet em M\u00f3dulos > Filtro de Coment\u00e1rios: Akismet."
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "N\u00famero de dias ap\u00f3s os quais o spam ser\u00e1 deletado"
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Ap\u00f3s o n\u00famero de dias indicado, o spam ser\u00e1 exclu\u00eddo automaticamente."
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Sa\u00edda"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "Profundidade de resposta"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "Especifique 0 para coment\u00e1rios cronol\u00f3gicos planos tradicionais. Para coment\u00e1rios em threads (respostas aparecem com o coment\u00e1rio ao qual est\u00e3o respondendo), especifique a profundidade m\u00e1xima permitida para respostas (recomendado de 0 a 4)."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "Ordenar do mais novo para o mais antigo?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Por padr\u00e3o, os coment\u00e1rios ser\u00e3o classificados cronologicamente (do mais antigo para o mais recente). Para reverter esse comportamento, marque esta caixa."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Usar o campo do site no formul\u00e1rio de coment\u00e1rios?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Quando marcado, o formul\u00e1rio de envio de coment\u00e1rios tamb\u00e9m incluir\u00e1 um campo de site."
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "Formato de data\/hora (para lista de coment\u00e1rios)"
+        },
+        "d8b14b9294abd99cef7ccd468f92282e": {
+            "text": "Insira o formato de data\/hora que voc\u00ea deseja que a sa\u00edda da lista de coment\u00e1rios padr\u00e3o use."
+        },
+        "033acb4cf2bad26f8dc0a9263c3bbe40": {
+            "text": "Pode ser um formato PHP [data](%s) ou [strftime](%s)."
+        },
+        "9b627919cf0a2a80c2feaa17bac8f299": {
+            "text": "Pode ser tamb\u00e9m \"relativo\" para formato de data relativa."
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "Permitir vota\u00e7\u00e3o de coment\u00e1rios?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "A vota\u00e7\u00e3o de coment\u00e1rios permite que os visitantes votem positivamente e\/ou negativamente nos coment\u00e1rios. A contagem de votos \u00e9 exibida ao lado de cada coment\u00e1rio. Apenas um voto positivo e\/ou negativo \u00e9 permitido por coment\u00e1rio, por endere\u00e7o IP, por hora."
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Vota\u00e7\u00e3o desativada"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Permitir vota\u00e7\u00e3o positiva"
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Permitir votos positivos e negativos"
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Usar classifica\u00e7\u00e3o por estrelas?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "As classifica\u00e7\u00f5es por estrelas permitem que o comentarista avalie o assunto que est\u00e1 comentando, usando uma escala de 1 a 5 estrelas."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Para alterar a estrela padr\u00e3o usada na sa\u00edda (HTML tamb\u00e9m \u00e9 permitido):"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Sim (classifica\u00e7\u00e3o por estrelas opcional)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Sim (classifica\u00e7\u00e3o por estrelas obrigat\u00f3ria)"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Adequado para exibi\u00e7\u00e3o em todos os sites com qualquer tipo de p\u00fablico."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Pode conter gestos rudes, indiv\u00edduos vestidos de forma provocante, palavr\u00f5es leves ou viol\u00eancia moderada."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Pode conter palavr\u00f5es, viol\u00eancia intensa, nudez ou uso de drogas pesadas."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Pode conter imagens sexuais graves ou viol\u00eancia extremamente perturbadora."
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Usar Gravatar?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Este servi\u00e7o fornece uma imagem de avatar com cada coment\u00e1rio (exclusivo para o endere\u00e7o de e-mail). Para habilitar, selecione a classifica\u00e7\u00e3o m\u00e1xima do gravatar. S\u00e3o iguais \u00e0s classifica\u00e7\u00f5es de filmes, onde G \u00e9 o mais adequado para fam\u00edlias e X n\u00e3o."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Descri\u00e7\u00f5es de classifica\u00e7\u00e3o fornecidas por [Gravatar](https:\/\/en.gravatar.com\/site\/implement\/images\/)."
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formatadores de Texto"
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "Opcionalmente, selecione um ou mais formatadores de texto a serem aplicados ao texto do coment\u00e1rio, na ordem selecionada. Se voc\u00ea n\u00e3o selecionar nenhum, o texto ser\u00e1 codificado em entidade, as quebras de linha ser\u00e3o convertidas em tags <br> e ser\u00e1 exibido em uma tag <p>."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Aviso: selecione apenas formatadores de texto que sejam seguros com entrada an\u00f4nima do usu\u00e1rio, como Entity Encoder (n\u00facleo) ou Textile Restricted (3rd party). Se n\u00e3o tiver certeza, n\u00e3o selecione nada aqui, pois fazer a escolha errada pode ser um problema de seguran\u00e7a."
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "Implementa\u00e7\u00e3o"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Esta se\u00e7\u00e3o est\u00e1 aqui para ajud\u00e1-lo a come\u00e7ar a enviar coment\u00e1rios no front-end do seu site. Tudo aqui \u00e9 opcional."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Se estiver usando um cache para sa\u00edda, configure-o para ignorar o cache quando a vari\u00e1vel GET \"comment_success\" estiver presente."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "C\u00f3digo PHP para gerar coment\u00e1rios"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS para sa\u00edda de coment\u00e1rios front-end"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS para sa\u00edda de coment\u00e1rios front-end"
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Voc\u00ea j\u00e1 votou neste coment\u00e1rio"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Erro ao registrar voto"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Coment\u00e1rios"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Campo que armazena coment\u00e1rios postados por usu\u00e1rios para uma \u00fanica P\u00e1gina"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Desativado"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "file": "wire\/core\/WireCache.php",
+    "textdomain": "wire--core--wirecache-php",
+    "translations": {
+        "d35d926654fdaeed481722384826e32b": {
+            "text": "Cache salvo"
+        }
+    }
+}

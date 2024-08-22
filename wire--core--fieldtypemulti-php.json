@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/FieldtypeMulti.php",
+    "textdomain": "wire--core--fieldtypemulti-php",
+    "translations": {
+        "e2942a04780e223b215eb8b663cf5353": {
+            "text": "contagem"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Ordena\u00e7\u00e3o e Pagina\u00e7\u00e3o"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Essas configura\u00e7\u00f5es se aplicam tanto ao front-end (site) quanto ao back-end (editor)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(reverso)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Ordena\u00e7\u00e3o autom\u00e1tica"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Selecione um ou mais campos para ordenar abaixo. Para ordena\u00e7\u00e3o manual, deixe esta configura\u00e7\u00e3o em branco."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Limite de pagina\u00e7\u00e3o \/ itens por p\u00e1gina"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Isso limita o n\u00famero de itens carregados\/editados por pagina\u00e7\u00e3o. O valor \u201c0\u201d indica sem limite (padr\u00e3o)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "A pagina\u00e7\u00e3o \u00e9 recomendada se voc\u00ea estiver trabalhando com centenas a milhares de itens (ou mais)."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Esta configura\u00e7\u00e3o n\u00e3o tem efeito a menos que uma sele\u00e7\u00e3o seja feita para \"Ordena\u00e7\u00e3o autom\u00e1tica\"."
+        }
+    }
+}

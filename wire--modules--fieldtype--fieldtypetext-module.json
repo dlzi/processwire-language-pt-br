@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeText.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
+    "translations": {
+        "d8519baaabde7d5b04b001afff86b1c9": {
+            "text": "Configura\u00e7\u00f5es de Texto"
+        },
+        "41d534244071f567ec8887353f125f86": {
+            "text": "Formatadores de Texto"
+        },
+        "9bf6e7e02fcf9320c882455021560f5b": {
+            "text": "Se voc\u00ea deseja aplicar qualquer formata\u00e7\u00e3o autom\u00e1tica ao campo quando ele \u00e9 preparado para sa\u00edda, selecione um ou mais formatadores de texto aqui."
+        },
+        "8b77c2ae8c7851a0bbc6c4a7914815c2": {
+            "text": "Se voc\u00ea selecionar mais de um, arraste-os para a ordem em que devem ser aplicados."
+        },
+        "7c09c7fa6cd2ade15be9247528c4d4e9": {
+            "text": "Encontre mais no [diret\u00f3rio de m\u00f3dulos de formatadores de texto](%s)."
+        },
+        "ed0f8be4615cf14dc76c1bb2629edf41": {
+            "text": "Para campos de texto simples que n\u00e3o cont\u00eam HTML ou marca\u00e7\u00e3o, recomendamos selecionar a op\u00e7\u00e3o **Codificador de entidade HTML** acima."
+        },
+        "6fb98d2426f4f6bbaf507e9033c89d5b": {
+            "text": "Este campo atualmente permite marca\u00e7\u00e3o\/HTML na sa\u00edda formatada."
+        },
+        "47fd39f8a1299b77e81a238129154c95": {
+            "text": "Se voc\u00ea n\u00e3o pretende permitir marca\u00e7\u00e3o\/HTML, selecione \u201cCodificador de entidade HTML\u201d para \u201cFormatadores de texto\u201d."
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Padr\u00e3o"
+        },
+        "8642da31c9c6a7ef78514cac2276dac9": {
+            "text": "M\u00f3dulo de Entrada"
+        },
+        "9f66b905cac6adfee97389b0d11b2db2": {
+            "text": "Salve ap\u00f3s alterar isso, pois pode afetar as configura\u00e7\u00f5es dispon\u00edveis na guia \"Entrada\"."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Texto"
+        }
+    }
+}

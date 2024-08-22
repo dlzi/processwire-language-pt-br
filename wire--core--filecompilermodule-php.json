@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Ordem de execu\u00e7\u00e3o em tempo de execu\u00e7\u00e3o"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Ordene que este m\u00f3dulo seja executado em rela\u00e7\u00e3o a outros m\u00f3dulos do FileCompiler. Os n\u00fameros mais baixos s\u00e3o executados primeiro."
+        }
+    }
+}

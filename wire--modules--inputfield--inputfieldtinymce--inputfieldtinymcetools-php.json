@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTinyMCE\/InputfieldTinyMCETools.php",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymcetools-php",
+    "translations": {
+        "a6a7c6fa6520c795ddc1fd8b117fe491": {
+            "text": "Erro ao decodificar JSON para propriedade TinyMCE \"%1$s\" - %2$s"
+        },
+        "e8edb193e1cb171a17efe2765d72af71": {
+            "text": "Arquivo n\u00e3o existe"
+        },
+        "a5a785b9182301d3185676786dedab6f": {
+            "text": "A extens\u00e3o do arquivo n\u00e3o \u00e9 .json"
+        },
+        "5af86e6c312dea2e9c0f1397bbd0590f": {
+            "text": "Erro ao codificar JSON para a propriedade TinyMCE \"%1$s\" - %2$s"
+        }
+    }
+}

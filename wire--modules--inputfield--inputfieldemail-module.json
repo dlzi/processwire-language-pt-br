@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Confirme"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-mail"
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Por favor insira um endere\u00e7o de e-mail v\u00e1lido"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "Os e-mails que voc\u00ea digitou s\u00e3o diferentes, digite novamente"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "O e-mail \"%s\" j\u00e1 est\u00e1 em uso, por favor use um diferente"
+        },
+        "0b3011446bcaaad42a9a544dbb09a3ed": {
+            "text": "E-mail com caracteres estendidos na parte local de local-part@domain.com n\u00e3o est\u00e1 habilitado"
+        },
+        "2e24bd715edd4dbbff781d4aa0355e99": {
+            "text": "E-mails de nomes de dom\u00ednio internacionalizados (IDN) n\u00e3o est\u00e3o habilitados, use um e-mail que n\u00e3o seja IDN"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "O e-mail excedeu o comprimento m\u00e1ximo permitido de %d caracteres"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Confirmar endere\u00e7o de e-mail?"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Quando marcado, aparecer\u00e3o duas entradas de e-mail e o usu\u00e1rio ter\u00e1 que inserir seu endere\u00e7o de e-mail duas vezes para confirm\u00e1-lo. Isso ajuda a reduzir a possibilidade de erros de digita\u00e7\u00e3o."
+        },
+        "dbc0ea7ae14b0b77eca995f4ba7aa9e8": {
+            "text": "Permitir e-mails de nomes de dom\u00ednio internacionalizados (IDN)?"
+        },
+        "35faac2c070c8d9722bc01c2c60509e3": {
+            "text": "Por favor, note que nem todos os sistemas de e-mail suportam enviar\/receber e-mails que cont\u00eam IDNs e\/ou caracteres UTF-8."
+        },
+        "7dd390401b61e8e6e4a7559e5fa9a4cb": {
+            "text": "Escolha e-mails padr\u00e3o ASCII para a maior compatibilidade."
+        },
+        "d906bf971f8572d11f7b4d040b3fbf2d": {
+            "text": "Use o padr\u00e3o ASCII se o endere\u00e7o de e-mail for usado para qualquer tipo de autentica\u00e7\u00e3o ou login."
+        },
+        "b038597ded41c029ae3476c546aad739": {
+            "text": "Tamb\u00e9m recomendamos e-mails padr\u00e3o ASCII se voc\u00ea estiver enviando mensagens para o endere\u00e7o de e-mail."
+        },
+        "4f514521d7af0462558b76d5d3417c98": {
+            "text": "Use e-mails padr\u00e3o ASCII"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(recomendado)"
+        },
+        "949a6edbe4db961f93c5a31476e8b8b3": {
+            "text": "Permitir hospedagem\/nome de dom\u00ednio IDN"
+        },
+        "ec06902273583078f0de63360295d321": {
+            "text": "Permitir parte local UTF-8 e hospedagem\/nome de dom\u00ednio IDN"
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "Endere\u00e7o de e-mail em formato v\u00e1lido"
+        }
+    }
+}

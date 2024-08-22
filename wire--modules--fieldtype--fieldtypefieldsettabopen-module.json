@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Abrir em janela modal?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Marque a caixa para abrir esta guia em sua pr\u00f3pria janela modal. Isso pode melhorar o desempenho com formul\u00e1rios grandes."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Para resolver uma necessidade semelhante, voc\u00ea pode considerar a op\u00e7\u00e3o AJAX, dispon\u00edvel em: Entrada (aba) > Visibilidade > Apresenta\u00e7\u00e3o."
+        }
+    }
+}

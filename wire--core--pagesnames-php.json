@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Outra p\u00e1gina est\u00e1 usando o nome \u201c%s\u201d e requer que seja globalmente \u00fanico"
+        },
+        "0bfad70a433eea8a1d6211bc771098b5": {
+            "text": "Outro usu\u00e1rio j\u00e1 est\u00e1 usando o nome \u201c%s\u201d"
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Outra p\u00e1gina com o mesmo pai j\u00e1 est\u00e1 usando o nome \u201c%s\u201d"
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel usar o nome \u201c%s\u201d como globalmente \u00fanico porque j\u00e1 est\u00e1 sendo usado por outra(s) p\u00e1gina(s)"
+        }
+    }
+}

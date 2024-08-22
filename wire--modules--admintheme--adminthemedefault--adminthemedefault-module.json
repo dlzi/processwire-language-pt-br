@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefault.module",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefault-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Conjunto de cores"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Cl\u00e1ssico"
+        },
+        "18297117d3d251afceed9ecbe797c849": {
+            "text": "Quente"
+        },
+        "ad1c9cd3e7b07e2c364c985f73188054": {
+            "text": "Moderno"
+        }
+    }
+}

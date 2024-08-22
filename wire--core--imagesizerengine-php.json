@@ -1,0 +1,39 @@
+{
+    "file": "wire\/core\/ImageSizerEngine.php",
+    "textdomain": "wire--core--imagesizerengine-php",
+    "translations": {
+        "4aede3b538343c5323a0f900ca4fa255": {
+            "text": "Prioridade do mecanismo"
+        },
+        "3d50ad624e49f81b1f9f836a3b70b57c": {
+            "text": "Isso determina em que ordem este mecanismo \u00e9 tentado em rela\u00e7\u00e3o a outros m\u00f3dulos ImageSizerEngine."
+        },
+        "7556d21eaf163cc3e4019e7c065df022": {
+            "text": "Quanto menor o n\u00famero, mais prefer\u00eancia voc\u00ea d\u00e1 a ele."
+        },
+        "c57c3b5a8e7466e2c2940704b60d2a42": {
+            "text": "Se voc\u00ea tiver outros m\u00f3dulos ImageSizerEngine instalados, certifique-se de que nenhum deles tenham a mesma prioridade."
+        },
+        "1e97e73f1e45d465e23a2ea172bc3355": {
+            "text": "Nitidez"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "682160fc6ad12f783f70608a9b46b9b9": {
+            "text": "Suave"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "M\u00e9dio"
+        },
+        "c43e0fd449c758dab8f891d8e19eb1a9": {
+            "text": "Forte"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Qualidade"
+        },
+        "c602090a02c41e9f67961fd513166846": {
+            "text": "Configura\u00e7\u00e3o de qualidade padr\u00e3o de 1 a 100, onde 1 \u00e9 a qualidade mais baixa e 100 \u00e9 a mais alta."
+        }
+    }
+}

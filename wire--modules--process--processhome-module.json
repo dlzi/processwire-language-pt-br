@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "P\u00e1gina inicial do administrador"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Atua como um processo de marcador para a raiz do admin. Garante o controle de fluxo adequado ap\u00f3s o login."
+        }
+    }
+}

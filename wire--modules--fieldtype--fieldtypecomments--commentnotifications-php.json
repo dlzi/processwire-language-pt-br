@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentNotifications.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentnotifications-php",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "Aprova\u00e7\u00e3o pendente"
+        },
+        "2ddc852b4c56d7eb5b88fc7b539f6899": {
+            "text": "Aprovar agora"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Aprovado"
+        },
+        "72af4a9852b0c2800d279f8d1f8c0661": {
+            "text": "Marcar como SPAM"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM - ser\u00e1 exclu\u00eddo automaticamente ap\u00f3s %d dias"
+        },
+        "86c1d4d493979ef59b39ac2ff666bff8": {
+            "text": "N\u00e3o \u00e9 SPAM: Aprove Agora"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Coment\u00e1rio postado em: %s"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editar"
+        },
+        "e8107568f6e83f5b0241f7b880e41a4b": {
+            "text": "Voc\u00ea cancelou a inscri\u00e7\u00e3o nas notifica\u00e7\u00f5es de coment\u00e1rios desta p\u00e1gina."
+        },
+        "c6c6e3cf945863d4f61ef6f648fb973c": {
+            "text": "Voc\u00ea confirmou o recebimento de notifica\u00e7\u00f5es desta p\u00e1gina."
+        },
+        "2bdedaef502bd65a7190ee7077fc9d23": {
+            "text": "Coment\u00e1rio %d atualizado para \u201c%s\u201d"
+        },
+        "91087eab2782aae45085cf5476081138": {
+            "text": "Publicado em: %s"
+        },
+        "92295f3f7fe39fd61f8ce27b523aa341": {
+            "text": "Postado por: %s"
+        },
+        "27d7f48b990974bef40abd6a857c4e0c": {
+            "text": "Postado em %s por %s"
+        },
+        "f6c4779fa5259e211efefe8cae45f4b2": {
+            "text": "Ver ou responder"
+        },
+        "3b5617424ffc943d996c686a376e807c": {
+            "text": "Cancelar inscri\u00e7\u00e3o destas notifica\u00e7\u00f5es"
+        },
+        "4b71ef4218c5669aa7d3e360902e5fcd": {
+            "text": "Novo coment\u00e1rio postado:"
+        },
+        "c7c47e22cdf07075fbc40c3197b822e0": {
+            "text": "Por favor confirme a notifica\u00e7\u00e3o"
+        },
+        "b5525fa352b1e9c09e58ab014b5273a3": {
+            "text": "Voc\u00ea solicitou ser notificado sobre respostas ao seu coment\u00e1rio em %s. Por favor, confirme isso clicando no link abaixo. Se voc\u00ea n\u00e3o solicitou isso, ignore este e-mail."
+        },
+        "8130425aab908bac67e8b4ace4861b21": {
+            "text": "Confirmar Notifica\u00e7\u00f5es"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "P\u00e1gina"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "De"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "E-mail"
+        },
+        "0182aa91273730ac7c4f3df026234683": {
+            "text": "Estrelas"
+        },
+        "bc5db30ce176afbea33060365cda9e6d": {
+            "text": "A\u00e7\u00e3o"
+        },
+        "15ede22296b59c623fa73c28c6dbe629": {
+            "text": "Texto"
+        }
+    }
+}

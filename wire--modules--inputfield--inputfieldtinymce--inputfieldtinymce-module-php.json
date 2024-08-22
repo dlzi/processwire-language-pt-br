@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTinyMCE\/InputfieldTinyMCE.module.php",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymce-module-php",
+    "translations": {
+        "b51000000ff730e7cacd10980186c1a4": {
+            "text": "Selecionar imagem"
+        },
+        "221593037a5835ee4689a1042bffdd1b": {
+            "text": "Editar imagem"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Seu texto de legenda aqui"
+        },
+        "5c0c8c704fe1487a85a1901dec284b1b": {
+            "text": "Salvando imagem"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "21051abf79012a1b2ee50d13b9731a16": {
+            "text": "Inserir Imagem"
+        },
+        "073b2b9e8d78b9523c0f1eda1c0c8f8c": {
+            "text": "Selecione outra"
+        },
+        "92987a0bdafb6d7ae317581d48f723a8": {
+            "text": "Inserir link"
+        },
+        "76d1048c452cefa5c6fe82d7edc0a7e0": {
+            "text": "Editar link"
+        }
+    }
+}

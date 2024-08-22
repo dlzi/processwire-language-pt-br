@@ -1,0 +1,315 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
+    "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
+    "translations": {
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Exportar\/importar est\u00e1 atualmente dispon\u00edvel apenas para superusu\u00e1rios"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportar"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importar"
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Importar de uma string JSON"
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Cole a string JSON previamente exportada desta ferramenta."
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Importar a partir de um arquivo ZIP"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continuar"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Nenhum dado de importa\u00e7\u00e3o encontrado"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "Dados de importa\u00e7\u00e3o inv\u00e1lidos"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "%d novo, %d existente"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "N\u00e3o h\u00e1 detalhes de importa\u00e7\u00e3o para exibir"
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "P\u00e1ginas com modelo \u201c%s\u201d n\u00e3o podem ser importadas porque esse modelo n\u00e3o existe aqui."
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "Selecione um modelo para substituir ao criar essas p\u00e1ginas."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: Substituindo MODELO \u201c%1$s\u201d por \u201c%2$s\u201d"
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "Selecione um substituto para o MODELO chamado \u201c%s\u201d"
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Um campo denominado \u201c%s\u201d do tipo *%s* aparece nos dados de importa\u00e7\u00e3o, mas n\u00e3o existe localmente."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Se voc\u00ea deseja importar este campo, selecione um campo substituto aqui."
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: Substituindo CAMPO \u201c%1$s\u201d por \u201c%2$s\u201d"
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "Selecione um substituto para o CAMPO denominado \u201c%s\u201d"
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "Poss\u00edveis campos de substitui\u00e7\u00e3o"
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Outros campos (podem n\u00e3o ser compat\u00edveis)"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "Escolha o novo pai"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "As p\u00e1ginas com pai \u201c%s\u201d n\u00e3o podem ser importadas porque essa p\u00e1gina n\u00e3o existe aqui."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "Selecione uma p\u00e1gina pai para usar em vez de criar essas p\u00e1ginas."
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: Substituindo PAI \u201c%1$s\u201d por \u201c%2$s\u201d"
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "Selecione um substituto para PAI chamado \u201c%s\u201d"
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Conflitos de recursos"
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Resumo da importa\u00e7\u00e3o"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Modo de importa\u00e7\u00e3o"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Criar novas p\u00e1ginas e atualizar p\u00e1ginas existentes"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Criar apenas novas p\u00e1ginas"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "Ignorar p\u00e1ginas na importa\u00e7\u00e3o que j\u00e1 existem"
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "Atualizar apenas p\u00e1ginas existentes"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "Ignorar p\u00e1ginas na importa\u00e7\u00e3o que ainda n\u00e3o existem"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Importar p\u00e1ginas abaixo do pai"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "Quando especificado, as p\u00e1ginas ser\u00e3o importadas para a p\u00e1gina pai selecionada aqui."
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Escolher pai"
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "Importar p\u00e1ginas para o pai selecionado e manter a estrutura do caminho abaixo dele"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Importar p\u00e1ginas como filhos da p\u00e1gina pai selecionada apenas"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "Campos permitidos na importa\u00e7\u00e3o"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "Os seguintes campos foram encontrados nos dados de importa\u00e7\u00e3o."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Desmarque todos os campos que deseja ignorar durante a importa\u00e7\u00e3o."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "R\u00f3tulo"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tipo"
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Nome da p\u00e1gina"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Status da p\u00e1gina"
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "\u00cdndice de ordena\u00e7\u00e3o de p\u00e1gina"
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Importar p\u00e1ginas"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Importa\u00e7\u00e3o de teste"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Confirmar importa\u00e7\u00e3o"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Criar nova p\u00e1gina: %s"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Modelos: %s"
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "Atualizar p\u00e1gina existente: %s"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "P\u00e1gina: %s \u2013 Falha"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "P\u00e1ginas: %s"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "Campos preenchidos:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "Campos alterados:"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nenhuma altera\u00e7\u00e3o detectada"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "A p\u00e1gina n\u00e3o pode ser importada"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Importa\u00e7\u00e3o bem-sucedida"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Importar esta p\u00e1gina?"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Sim"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Quais p\u00e1ginas voc\u00ea deseja exportar?"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "P\u00e1ginas que eu seleciono"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "P\u00e1ginas com pai"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "P\u00e1ginas correspondentes \u00e0 busca"
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Selecionar p\u00e1ginas"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Selecione uma ou mais p\u00e1ginas para incluir na exporta\u00e7\u00e3o."
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Selecionar p\u00e1gina pai"
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "Selecione o pai das p\u00e1ginas que deseja exportar. Os filhos desta p\u00e1gina ser\u00e3o exportados."
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Op\u00e7\u00f5es adicionais"
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "Incluir a p\u00e1gina pai na exporta\u00e7\u00e3o"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Recursivo"
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Exporta \u00e1rvore de p\u00e1ginas em vez de apenas filhos diretos"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Incluir p\u00e1ginas ocultas"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Incluir p\u00e1ginas ocultas e n\u00e3o publicadas"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "Construir uma busca para corresponder p\u00e1ginas para exporta\u00e7\u00e3o"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "Adicione um ou mais campos para pesquisar e combinar p\u00e1ginas para exporta\u00e7\u00e3o."
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "Campos de exporta\u00e7\u00e3o"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "Por padr\u00e3o, todos os campos suportados em uma p\u00e1gina s\u00e3o inclu\u00eddos na exporta\u00e7\u00e3o."
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Se voc\u00ea deseja que sua exporta\u00e7\u00e3o inclua apenas determinados campos, selecione-os aqui."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Se nenhuma sele\u00e7\u00e3o for feita, todos os campos suportados ser\u00e3o inclu\u00eddos na exporta\u00e7\u00e3o."
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Como voc\u00ea deseja salvar a exporta\u00e7\u00e3o?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "Baixe o arquivo ZIP"
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "Texto para copiar\/colar"
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "Escolha sempre a op\u00e7\u00e3o de arquivo ZIP se quiser incluir campos de arquivo ou imagem em sua exporta\u00e7\u00e3o."
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Exportar Agora"
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "JSON para copiar\/colar (padr\u00e3o)"
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "Baixar arquivo ZIP"
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "As p\u00e1ginas exportam dados para copiar\/colar"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Clique em qualquer lugar do texto abaixo para selecion\u00e1-lo para c\u00f3pia."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Voc\u00ea pode ent\u00e3o colar este texto na aba Importar de outra instala\u00e7\u00e3o."
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Execute outra exporta\u00e7\u00e3o"
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "P\u00e1gina %d importada"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "%d p\u00e1ginas importadas"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Importa\u00e7\u00e3o testada de %d p\u00e1gina"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Importa\u00e7\u00e3o testada de %d p\u00e1ginas"
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "Encontrada %d p\u00e1gina para importa\u00e7\u00e3o"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "Foram encontradas %d p\u00e1ginas para importa\u00e7\u00e3o"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "Esta exporta\u00e7\u00e3o inclui %d p\u00e1gina."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "Esta exporta\u00e7\u00e3o inclui %d p\u00e1ginas."
+        }
+    }
+}

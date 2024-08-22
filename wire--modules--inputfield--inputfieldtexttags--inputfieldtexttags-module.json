@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Adicionar"
+        },
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Valor de tag inv\u00e1lida removida: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Fonte de op\u00e7\u00f5es\/tags selecion\u00e1veis"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Especifique-os aqui"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Carregar da URL que voc\u00ea especificar (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Usar op\u00e7\u00f5es\/p\u00e1ginas ajax?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Quando ativado, funcionar\u00e1 como um auto-completar onde o usu\u00e1rio come\u00e7a a digitar e consulta uma URL para p\u00e1ginas correspondentes."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Voc\u00ea tamb\u00e9m precisar\u00e1 fornecer uma \u201cURL Ajax\u201d (mostrada abaixo quando \u201cSim\u201d \u00e9 selecionado) para realizar a consulta. O c\u00f3digo de exemplo funcional est\u00e1 inclu\u00eddo."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Quando n\u00e3o ativado, todas as op\u00e7\u00f5es selecion\u00e1veis ser\u00e3o preenchidas em tempo de execu\u00e7\u00e3o."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Usar op\u00e7\u00f5es\/p\u00e1ginas ajax \u00e9 \u00fatil quando a quantidade potencial de p\u00e1ginas selecion\u00e1veis \u00e9 grande."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Considere isso quando houver centenas ou milhares (ou mais) de p\u00e1ginas que podem ser selecionadas."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Lista de op\u00e7\u00f5es\/tags predefinidas"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Digite as tags predefinidas, 1 por linha. Para definir valor e r\u00f3tulo separados para a tag, especifique `valor=r\u00f3tulo` na linha."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "As tags n\u00e3o podem conter o delimitador selecionado abaixo, mas os r\u00f3tulos podem."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Para definir r\u00f3tulos separados por idioma, reintroduza cada tag `valor=r\u00f3tulo` para cada idioma, onde o `valor` \u00e9 o mesmo para cada um enquanto o `r\u00f3tulo` difere."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Exemplo de manipulador de URL no arquivo %s para URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Copie e cole este URL no campo acima se quiser usar o exemplo abaixo."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "URL Ajax"
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Quando voc\u00ea insere uma URL, ela ser\u00e1 consultada por itens correspondentes \u00e0 entrada do usu\u00e1rio em estilo auto-completar."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "A URL fornecida deve conter o espa\u00e7o reservado `{q}` em algum lugar, que ser\u00e1 substitu\u00eddo pelo texto que o usu\u00e1rio digitar."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Voc\u00ea pode especificar uma URL completa http\/https ou uma URL relativa."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Se voc\u00ea especificar uma URL relativa (sem esquema\/host), o esquema atual, host e URL raiz ser\u00e3o adicionados a ela em tempo de execu\u00e7\u00e3o."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Voc\u00ea tamb\u00e9m precisar\u00e1 definir um manipulador de URL como no exemplo mostrado abaixo."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "O caminho da URL `%s` \u00e9 apenas um exemplo, fique \u00e0 vontade para substitu\u00ed-lo pelo que desejar."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "Este exemplo encontra t\u00edtulos de p\u00e1ginas para usar como tags, mas voc\u00ea pode usar qualquer fonte de dados que desejar."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "seu seletor de p\u00e1ginas aqui"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Observe que, se voc\u00ea alterar suas configura\u00e7\u00f5es de \u201cP\u00e1ginas selecion\u00e1veis\u201d ou \u201cCampo de r\u00f3tulo\u201d, tamb\u00e9m precisar\u00e1 atualizar o c\u00f3digo do manipulador de URL."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "O espa\u00e7o reservado \u201c{q}\u201d \u00e9 necess\u00e1rio em algum lugar do seu URL Ajax."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Permitir que o usu\u00e1rio insira suas pr\u00f3prias tags?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Fechar o menu suspenso ap\u00f3s cada sele\u00e7\u00e3o ser feita?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(para tags de uma \u00fanica palavra)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(para tags com v\u00e1rias palavras)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Delimitador de tags"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Espa\u00e7o"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "V\u00edrgula"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "M\u00e1ximo de tags\/op\u00e7\u00f5es"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Use 0 para n\u00e3o ter limite ou insira o n\u00famero m\u00e1ximo de op\u00e7\u00f5es\/tags que o usu\u00e1rio pode selecionar ou inserir."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Observe que inserir 1 faz com que a entrada pare\u00e7a mais um select do que uma entrada de texto."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Texto de espa\u00e7o reservado"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Texto de espa\u00e7o reservado opcional que aparece no campo quando em branco."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Tags de texto"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Permite a entrada de tags inseridas pelo usu\u00e1rio ou a sele\u00e7\u00e3o de tags predefinidas."
+        }
+    }
+}

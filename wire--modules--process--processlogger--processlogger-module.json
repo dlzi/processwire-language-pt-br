@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "Criar ou adicionar ao arquivo de log a partir da API:"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Log exclu\u00eddo: %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Arquivo de log \"%s\" removido (agora cont\u00e9m %d entradas)"
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Nova entrada de log salva em \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "O texto da entrada do log estava em branco"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "Ajudantes"
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "Busca de Texto"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "Data de"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "Data para"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "A\u00e7\u00f5es"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "Selecione uma a\u00e7\u00e3o abaixo. Voc\u00ea ser\u00e1 solicitado a clicar em um bot\u00e3o antes que a a\u00e7\u00e3o seja executada."
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "Crescer (Adicionar Entrada)"
+        },
+        "02f9418b682bcf39e6426bc2981e2b8a": {
+            "text": "Podar (Cortar)"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "Destruir (Excluir)"
+        },
+        "346d021dc6749fe81c1f0faee3a38831": {
+            "text": "Podar em # dias"
+        },
+        "6ae864586a6fe2c99b1501c4c20e2e38": {
+            "text": "Reduzir o tamanho do arquivo de log para conter apenas entradas dos \u00faltimos [n] dias."
+        },
+        "e3a6297e7ba64ab87a04b472d2d2330e": {
+            "text": "Deve ser 1 ou maior."
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Nova Entrada de Log"
+        },
+        "c397f5454fbbd15045aaacf88b43888e": {
+            "text": "Podar este arquivo de log agora"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Destruir este log agora (excluir permanentemente)"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "Adicionar esta entrada de log"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "Baixar este arquivo de log agora"
+        },
+        "5157e3c765af93679ea07052f30f0a6e": {
+            "text": "atual"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "Nenhuma entrada de log correspondente"
+        },
+        "75d8bea19790a638a8dde30fd475dba6": {
+            "text": "404 n\u00e3o encontrado"
+        },
+        "527b296f2533d0e979933116081467a8": {
+            "text": "Visualizar e gerenciar logs do sistema."
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nome"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Entradas"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Tamanho"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Data hora"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "Usu\u00e1rio"
+        },
+        "9f3af3dbda7832b613a27b731cc3ca02": {
+            "text": "Texto"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Uma nova entrada de log na p\u00e1gina 1"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "M\u00faltiplas novas entradas de log na p\u00e1gina 1"
+        },
+        "5118ea88654d8338b03da5c0b62c1f42": {
+            "text": "Mais %d duplicata anterior"
+        },
+        "c9ac43f375c0387b8a7ff29615abc018": {
+            "text": "Mais %d duplicatas anteriores"
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Baixar"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "="
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "="
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "="
+        }
+    }
+}

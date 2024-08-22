@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFloat.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfloat-module",
+    "translations": {
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "N\u00famero de d\u00edgitos decimais para arredondar"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Ou use um n\u00famero negativo como `-1` para desativar o arredondamento."
+        },
+        "22ae0e2b89e5e3d477f988cc36d3272b": {
+            "text": "Flutuador"
+        },
+        "7de752758d9c197324e94fd4a993f9d2": {
+            "text": "N\u00famero de ponto flutuante com precis\u00e3o"
+        }
+    }
+}

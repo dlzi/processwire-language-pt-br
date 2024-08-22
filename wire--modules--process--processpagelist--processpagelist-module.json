@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Lixeira"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Alterar"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecionar"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Desselecionar"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mais"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Clique e arraste para mover"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Erro de rede, tente novamente mais tarde"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Erro desconhecido, tente novamente mais tarde"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Mostrar todos"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d p\u00e1ginas)"
+        },
+        "411cec7236cb829a791512f1b67a0cc8": {
+            "text": "Ocultar estas p\u00e1ginas nas listas de p\u00e1ginas"
+        },
+        "41df189ac4766e373988ce9c915491bc": {
+            "text": "Selecione uma ou mais p\u00e1ginas que voc\u00ea n\u00e3o deseja que apare\u00e7am na(s) lista(s) de p\u00e1ginas."
+        },
+        "7b4ae78013cd06d78b6b04f15dcbf69c": {
+            "text": "Exceto quando (condi\u00e7\u00e3o E)"
+        },
+        "d60116abe437a67aba5ba11a37144d33": {
+            "text": "Sistema em modo de depura\u00e7\u00e3o"
+        },
+        "03ab4ed39b0a2c874ec38105730cad72": {
+            "text": "Sistema em modo avan\u00e7ado"
+        },
+        "0f574db5ad2d196b7b0714fb2344a865": {
+            "text": "O usu\u00e1rio atual \u00e9 superusu\u00e1rio"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Permitir que editores n\u00e3o superusu\u00e1rios usem a Lixeira?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Quando marcado, os usu\u00e1rios poder\u00e3o ver p\u00e1ginas na lixeira (apenas p\u00e1ginas \u00e0s quais eles t\u00eam acesso)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Isso tamb\u00e9m habilitar\u00e1 as a\u00e7\u00f5es \u201cLixeira\u201d e \u201cRestaurar\u201d, onde o controle de acesso permitir."
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nome do campo da p\u00e1gina a ser exibido"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Cada p\u00e1gina em uma PageList \u00e9 identificada por um r\u00f3tulo, normalmente um t\u00edtulo ou campo de manchete. Voc\u00ea pode especificar qual campo deve ser usado aqui. Para especificar v\u00e1rios campos, separe cada nome de campo com um espa\u00e7o ou use seu pr\u00f3prio formato com nomes de campos entre {chaves}. Se o campo resolver para um objeto (como outra p\u00e1gina), especifique a propriedade com um ponto, por exemplo, {outrapagina.titulo}. Observe que, se o formato especificado resolver para um valor em branco, o ProcessWire usar\u00e1 o campo \"nome\" da p\u00e1gina."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Voc\u00ea pode opcionalmente substituir essa configura\u00e7\u00e3o por modelo em cada configura\u00e7\u00e3o \"avan\u00e7ada\" do modelo."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "O valor padr\u00e3o \u00e9 %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Se deixado com o valor padr\u00e3o, esta configura\u00e7\u00e3o tamb\u00e9m pode ser especificada no array $config->pageList."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "N\u00famero de p\u00e1ginas a serem exibidas antes da pagina\u00e7\u00e3o"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Velocidade da anima\u00e7\u00e3o (em ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Esta \u00e9 a velocidade com que cada ramo da \u00e1rvore de p\u00e1ginas \u00e9 animado para cima ou para baixo. N\u00fameros mais baixos s\u00e3o mais r\u00e1pidos, mas menos vis\u00edveis. Para nenhuma anima\u00e7\u00e3o especifique 0."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Tipo de quantidade de filhos"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Na lista de p\u00e1ginas, uma quantidade de filhos \u00e9 mostrada ao lado de cada p\u00e1gina, quando aplic\u00e1vel. Que tipo de quantidade deve mostrar?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Ao mostrar descendentes, a quantidade inclui todos os descendentes, list\u00e1veis para o usu\u00e1rio ou n\u00e3o."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Filhos imediatos (padr\u00e3o)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Descendentes: filhos, netos, bisnetos e assim por diante\u2026"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Ambos: filhos\/descendentes"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Ambos: descendentes\/filhos"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Mostrar o n\u00famero de ID da p\u00e1gina"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar Novo"
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Mostrar a\u00e7\u00f5es da p\u00e1gina ao passar o mouse?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Por padr\u00e3o, as a\u00e7\u00f5es de uma p\u00e1gina aparecem ap\u00f3s um clique (pelo menos no tema administrativo padr\u00e3o). Para faz\u00ea-los aparecer ao passar o mouse, marque esta caixa."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Para mais op\u00e7\u00f5es aqui, veja a configura\u00e7\u00e3o $config->pageList em \/wire\/config.php. Voc\u00ea pode copiar essas configura\u00e7\u00f5es para \/site\/config.php e substitu\u00ed-las."
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/AdminTheme.php",
+    "textdomain": "wire--core--admintheme-php",
+    "translations": {
+        "657f8b8da628ef83cf69101b6817150a": {
+            "text": "ajuda"
+        },
+        "1f7b42ad432b913e6e78c7b9db29f6ae": {
+            "text": "Tente \u201cajuda\u201d"
+        },
+        "244cf4a0f690a8c69a4dacf0a0c78a2e": {
+            "text": "Modo avan\u00e7ado"
+        },
+        "a603905470e2a5b8c13e96b579ef0dba": {
+            "text": "Depurar"
+        },
+        "1e7f9a369b1d2688c0a9de0ba9adeb43": {
+            "text": "Para usar este tema, selecione-o em seu perfil de usu\u00e1rio."
+        },
+        "e3d8856720f3539d3fd3e02238f095ef": {
+            "text": "Campo \"admin_theme\" instalado e adicionado \u00e0s configura\u00e7\u00f5es do perfil do usu\u00e1rio."
+        },
+        "40c0ca08425d862d797f41d0fe0ff368": {
+            "text": "Campo \"admin_theme\" removido do sistema."
+        }
+    }
+}

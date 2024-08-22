@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Selecione um ou mais modelos para itens"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Estes s\u00e3o os modelos que ser\u00e3o utilizados pelas p\u00e1ginas gerenciadas a partir deste campo. Voc\u00ea pode criar um novo modelo espec\u00edfico para as necessidades deste campo."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Clique em Salvar depois de selecionar um modelo e a configura\u00e7\u00e3o restante na guia Entrada conter\u00e1 mais contexto."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Selecione um pai para itens"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Todos os itens criados e gerenciados neste campo ficar\u00e3o sob o pai que voc\u00ea selecionar aqui."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Se nenhum pai for selecionado, os itens ser\u00e3o colocados como filhos da p\u00e1gina que est\u00e1 sendo editada."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Comportamentos da p\u00e1gina"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Nada"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Envie-os para a lixeira"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Exclua-os"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Cancele a publica\u00e7\u00e3o deles"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Esconda-os"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Excluir"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "O que dever\u00e1 acontecer com os itens \"%s\" quando a p\u00e1gina que os cont\u00e9m for exclu\u00edda permanentemente?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Liixeira"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "O que deve acontecer com os itens \"%s\" quando a p\u00e1gina que os cont\u00e9m for para a lixeira?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Cancelar publica\u00e7\u00e3o"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "O que deve acontecer com os itens \"%s\" quando a p\u00e1gina que os cont\u00e9m n\u00e3o \u00e9 publicada?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Ordenar campos"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Insira o nome do campo pelo qual deseja que sua tabela seja classificada. Para uma classifica\u00e7\u00e3o decrescente, preceda o nome do campo com um h\u00edfen, ou seja, \"-date\" em vez de \"date\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Voc\u00ea pode especificar v\u00e1rios campos de ordena\u00e7\u00e3o separando cada um por v\u00edrgula, por exemplo, \"sobrenome, nome, -anivers\u00e1rio\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Deixe em branco para ordena\u00e7\u00e3o manual de arrastar e soltar (padr\u00e3o)."
+        }
+    }
+}

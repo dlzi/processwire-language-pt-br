@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Ativo?"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Uma p\u00e1gina irm\u00e3 (id=%1$d) j\u00e1 est\u00e1 usando o nome \"%2$s\" para o idioma: %3$s"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefixo do n\u00famero da p\u00e1gina para pagina\u00e7\u00e3o"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "O n\u00famero da p\u00e1gina \u00e9 anexado a esta palavra em URLs paginados para este idioma. Se omitido, \"%s\" ser\u00e1 usado."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "URL da p\u00e1gina inicial do idioma padr\u00e3o \u00e9 igual ao URL raiz?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Escolha **Sim** se voc\u00ea deseja que a p\u00e1gina inicial do seu idioma padr\u00e3o seja servida pelo URL raiz **\/** (recomendado). Escolha **N\u00e3o** se voc\u00ea deseja que seu URL raiz realize um redirecionamento para **\/nome\/** (onde \/nome\/ \u00e9 o nome do idioma padr\u00e3o da sua p\u00e1gina inicial)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Esta configura\u00e7\u00e3o afeta apenas o comportamento da p\u00e1gina inicial. Se voc\u00ea selecionar N\u00e3o, tamb\u00e9m dever\u00e1 certificar-se de que sua p\u00e1gina inicial tenha um nome definido para o idioma padr\u00e3o."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Sim - URL raiz serve a p\u00e1gina inicial do idioma padr\u00e3o (recomendado)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "N\u00e3o - URL raiz realiza um redirecionamento para: \/nome\/"
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "Comportamento quando a p\u00e1gina n\u00e3o estiver dispon\u00edvel no idioma solicitado (mas estiver dispon\u00edvel no idioma padr\u00e3o)"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "Esta configura\u00e7\u00e3o n\u00e3o se aplica se a p\u00e1gina for edit\u00e1vel para o usu\u00e1rio, pois sempre estar\u00e1 dispon\u00edvel para fins de visualiza\u00e7\u00e3o."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "Lan\u00e7ar um erro 404 (p\u00e1gina n\u00e3o encontrada) - comportamento padr\u00e3o"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Permitir que seja renderizada para o idioma de qualquer maneira (se acessado diretamente pelo URL)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "Realizar um redirecionamento 301 (permanente) para a p\u00e1gina no idioma padr\u00e3o"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "Realizar um redirecionamento 302 (tempor\u00e1rio) para a p\u00e1gina no idioma padr\u00e3o"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "895d280780a54e8c5561dea1f6a4b34d": {
+            "text": "Codificador de entidade HTML (htmlspecialchars)"
+        },
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "entidade codifica e comercial, aspas (simples e duplas) e sinais de maior que\/menor que usando htmlspecialchars(str, ENT_QUOTES). \u00c9 recomendado que voc\u00ea use isso em todos os campos de texto\/\u00e1rea de texto, exceto aqueles que usam um editor de rich text ou uma linguagem de marca\u00e7\u00e3o como Markdown."
+        }
+    }
+}

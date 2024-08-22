@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselectmultiple-module",
+    "translations": {
+        "019fce53dcc7e7f5a3abea240de44d77": {
+            "text": "Tamanho: n\u00famero de linhas vis\u00edveis de uma vez no select m\u00faltiplo"
+        },
+        "eefa4a712878aa9e7c3a4fdb9ab10adf": {
+            "text": "Selecionar M\u00faltiplos"
+        },
+        "6faad70d6719b405a08c5121e31e258b": {
+            "text": "Selecione v\u00e1rios itens de uma lista"
+        }
+    }
+}

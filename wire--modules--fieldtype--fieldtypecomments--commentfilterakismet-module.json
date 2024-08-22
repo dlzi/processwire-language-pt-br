@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentFilterAkismet.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
+    "translations": {
+        "00fee5e9143358a3b00c985f3ed3c43e": {
+            "text": "Chave Akismet"
+        },
+        "69dccaed52b0f6af3c11c97b72d0b963": {
+            "text": "Se voc\u00ea deseja que os coment\u00e1rios sejam identificados automaticamente como spam, o tipo de campo Coment\u00e1rios pode utilizar o servi\u00e7o Akismet para fazer isso. Para us\u00e1-lo, voc\u00ea deve inserir uma chave API do Akismet obtida em akismet.com. O uso deste servi\u00e7o \u00e9 opcional, mas recomendado."
+        },
+        "4f56cc1383c1e4170dfe1e715a97f5d6": {
+            "text": "Filtro de Coment\u00e1rios: Akismet"
+        },
+        "c6fbad5a67362793950bf96bd0e6dad5": {
+            "text": "Usar o servi\u00e7o Akismet para identificar spam em coment\u00e1rios. Plugin de m\u00f3dulo para o Fieldtype Coment\u00e1rios."
+        }
+    }
+}

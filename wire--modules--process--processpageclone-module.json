@@ -1,0 +1,87 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Copiar"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Copiar P\u00e1gina"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "N\u00e3o foi poss\u00edvel carregar a p\u00e1gina"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(c\u00f3pia)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(copiar %d)"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Isto far\u00e1 uma c\u00f3pia de %s"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "T\u00edtulo da nova p\u00e1gina"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Tornar a nova p\u00e1gina n\u00e3o publicada?"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Se marcado, a p\u00e1gina clonada receber\u00e1 o status de n\u00e3o publicada para que ainda n\u00e3o possa ser vista no front-end do seu site."
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Copiar filhos tamb\u00e9m?"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Se marcado, todos os filhos, netos, etc., tamb\u00e9m ser\u00e3o clonados com esta p\u00e1gina."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Aviso: se houver uma estrutura muito grande de p\u00e1ginas abaixo disso, pode ser demorado ou imposs\u00edvel de completar."
+        },
+        "3d8becb7117d425cdbffe4e19bf68048": {
+            "text": "Tornar os filhos clonados n\u00e3o publicados?"
+        },
+        "5cdef78260394826a1705b7de6dbb26b": {
+            "text": "Se marcado, todos os filhos clonados, netos, etc., tamb\u00e9m ser\u00e3o n\u00e3o publicados."
+        },
+        "a5583243979cb2245c72a9a66b462ad3": {
+            "text": "%s + Lista"
+        },
+        "f9772f7f5e3cf401925824dfa930143d": {
+            "text": "%s + Editar"
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "N\u00e3o foi poss\u00edvel clonar a p\u00e1gina %s"
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "P\u00e1gina clonada \"%1$s\" para \"%2$s\""
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Clonado para: %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "N\u00e3o foi poss\u00edvel clonar a p\u00e1gina"
+        },
+        "ddc8d9e3b58dae52fa498a8923ce2542": {
+            "text": "Sempre use o formul\u00e1rio de clone completo?"
+        },
+        "9660d6d75da8a44f742c813ff0050c48": {
+            "text": "Quando uma p\u00e1gina n\u00e3o tem filhos, este m\u00f3dulo usar\u00e1 um atalho que economiza tempo para clonar a p\u00e1gina sem sair da \u00e1rvore de p\u00e1ginas."
+        },
+        "ce989da485d32ec720265e04064b3a0d": {
+            "text": "Se voc\u00ea sempre quiser usar o formul\u00e1rio completo de op\u00e7\u00f5es de clonagem (para poder inserir nome, t\u00edtulo, etc. antes de clonar), marque esta caixa."
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Clonar P\u00e1gina"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Oferece a capacidade de clonar\/copiar\/duplicar p\u00e1ginas no admin. Adiciona uma op\u00e7\u00e3o \"copiar\" a todas as p\u00e1ginas aplic\u00e1veis na Lista de P\u00e1ginas."
+        },
+        "54d8e0533da1fd4efb5e7628bf83de10": {
+            "text": "(~%d p\u00e1gina)"
+        },
+        "e80b151cbd7d1db53031e9e6a8214014": {
+            "text": "(~%d p\u00e1ginas)"
+        }
+    }
+}

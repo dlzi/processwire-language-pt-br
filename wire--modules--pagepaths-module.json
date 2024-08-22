@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/PagePaths.module",
+    "textdomain": "wire--modules--pagepaths-module",
+    "translations": {
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Reconstru\u00e7\u00e3o conclu\u00edda em %d segundos"
+        },
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "Reconstruir \u00edndice de caminhos de p\u00e1ginas para %d p\u00e1ginas"
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "Reconstruir agora"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "O tempo estimado de reconstru\u00e7\u00e3o \u00e9 de at\u00e9 5 segundos por 1.000 p\u00e1ginas."
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "Existem %d p\u00e1ginas a serem processadas."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "Atualmente existem %d linhas armazenadas por este m\u00f3dulo (caminhos de caminho e vers\u00f5es de caminhos de caminho)."
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Escolha a op\u00e7\u00e3o \u201creconstruir agora\u201d para criar seu \u00edndice de caminhos de p\u00e1gina."
+        },
+        "d6fee4e5741568290c0f4c4edc81f70f": {
+            "text": "Caminho %d atualizado"
+        },
+        "b198072961bf47ed9c790c1006f98372": {
+            "text": "%d caminhos atualizados"
+        }
+    }
+}

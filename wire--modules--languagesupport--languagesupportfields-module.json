@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportFields.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportfields-module",
+    "translations": {
+        "16d43921f6466356a5420de1d357ffb6": {
+            "text": "Suporte a Idiomas \/ Comportamento em Branco"
+        },
+        "d5984c66ace0dae1773e991655e79484": {
+            "text": "O que deve acontecer quando o valor deste campo estiver em branco?"
+        },
+        "2890518e61caa93e64ca13dbc48fd26a": {
+            "text": "Aplica-se apenas a valores de idiomas n\u00e3o padr\u00e3o no front-end do seu site."
+        },
+        "b22ada5d7a2fc27462f6c477fc5c4dbd": {
+            "text": "Herdar valor do idioma padr\u00e3o"
+        },
+        "58d2e94541b468a4154422bbbc8a6ba5": {
+            "text": "Permanecer em branco"
+        }
+    }
+}

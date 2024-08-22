@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Este \u00e9 um exemplo de texto"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Instru\u00e7\u00f5es sobre como usar este campo"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Este tipo de conjunto de campos usa uma p\u00e1gina separada (nos bastidores) para armazenar valores para os campos selecionados acima."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Uma vantagem \u00e9 que voc\u00ea pode reutilizar campos que j\u00e1 possam estar presentes em sua p\u00e1gina, fora do conjunto de campos."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Por exemplo, voc\u00ea poderia ter um campo \u201ct\u00edtulo\u201d em sua p\u00e1gina e outro em seu conjunto de campos. Da mesma forma para quaisquer outros campos."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Isso \u00e9 poss\u00edvel porque os campos no conjunto de campos est\u00e3o em seu pr\u00f3prio namespace \u2013 outra p\u00e1gina \u2013 separado da p\u00e1gina principal."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Abaixo est\u00e3o v\u00e1rios exemplos de como usar este campo nos arquivos do seu modelo e via API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Obtendo um valor:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Exibindo um valor:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Exibindo um valor quando na marca\u00e7\u00e3o:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Configurando um valor:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Configurando e salvando um valor:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "isso desativa a formata\u00e7\u00e3o de sa\u00edda, quando necess\u00e1rio"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Atribuindo conjunto de campos a outra vari\u00e1vel (mais curta) e exibindo um valor:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Encontrando p\u00e1ginas com conjunto de campos contendo o campo \"%s\" com texto \"exemplo\":"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "Lembrar posi\u00e7\u00f5es das abas entre as requisi\u00e7\u00f5es?"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nunca"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "Somente ap\u00f3s o envio do formul\u00e1rio"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Sempre"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "Fornece um plugin jQuery para gerar abas no ProcessWire."
+        }
+    }
+}

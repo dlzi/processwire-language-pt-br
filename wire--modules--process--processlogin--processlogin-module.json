@@ -1,0 +1,165 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continuar"
+        },
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Editar Perfil"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "="
+        },
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Login n\u00e3o \u00e9 compat\u00edvel com esse endere\u00e7o de e-mail."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Verifica\u00e7\u00e3o de cookie falhou: por favor, habilite cookies para fazer login."
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Verifica\u00e7\u00e3o de Javascript falhou: por favor, habilite Javascript para fazer login."
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Esqueceu sua senha?"
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Nome de login inv\u00e1lido"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Conecte-se"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Falha no login"
+        },
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Voc\u00ea est\u00e1 logado."
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Voc\u00ea deslogou"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Senha"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Nome de usu\u00e1rio"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "Nome de usu\u00e1rio ou email"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "Ignorando verifica\u00e7\u00f5es do sistema p\u00f3s-login porque atualiza\u00e7\u00f5es foram aplicadas (%s)"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "Endere\u00e7o de email"
+        },
+        "5682f33e4050198546baa582422d61aa": {
+            "text": "Voc\u00ea deve [ativar a configura\u00e7\u00e3o \u201cexclusiva\u201d](%s) para o seu campo de e-mail"
+        },
+        "59a4a5414d86131a42c9e2715b82bb21": {
+            "text": "Todos os superusu\u00e1rios devem ter um endere\u00e7o de e-mail definido"
+        },
+        "190c0e4ccd74444bc05cda57fa0465fe": {
+            "text": "Veja as notas abaixo para ativar"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Tipo de login"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Nome de usu\u00e1rio"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Qualquer"
+        },
+        "0300fd7b40fcdc00704dac9cff1a831f": {
+            "text": "Para usar o login por e-mail:"
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Autentica\u00e7\u00e3o de dois fatores"
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "M\u00f3dulos Tfa no diret\u00f3rio de m\u00f3dulos ProcessWire"
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Para configurar isso voc\u00ea deve primeiro instalar um ou mais m\u00f3dulos Tfa e depois retornar aqui."
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Encontrados os seguintes m\u00f3dulos Tfa:"
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(clique para configurar)"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "For\u00e7ar autentica\u00e7\u00e3o de dois fatores"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "Quando um m\u00f3dulo Tfa for selecionado aqui, ele ser\u00e1 habilitado automaticamente (no login) para usu\u00e1rios que n\u00e3o est\u00e3o usando autentica\u00e7\u00e3o de dois fatores."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desativado"
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "Marque os pap\u00e9is para for\u00e7ar autentica\u00e7\u00e3o de dois fatores ou deixe todos desmarcados para for\u00e7ar para TODOS os pap\u00e9is (quando\/onde poss\u00edvel)."
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Sugerir fortemente autentica\u00e7\u00e3o de dois fatores para esses pap\u00e9is"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Depois de fazer login no admin, o ProcessWire solicitar\u00e1 aos usu\u00e1rios nos pap\u00e9is que voc\u00ea selecionar aqui para usar autentica\u00e7\u00e3o de dois fatores em suas contas."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Permitir aos usu\u00e1rios a op\u00e7\u00e3o de pular a entrada do c\u00f3digo quando seu navegador\/localiza\u00e7\u00e3o for lembrado?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "Isso apresenta aos usu\u00e1rios uma op\u00e7\u00e3o \"Lembrar deste computador?\" na tela de entrada do c\u00f3digo ao fazer login."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Digite o n\u00famero de dias que o navegador\/localiza\u00e7\u00e3o de um usu\u00e1rio pode ser lembrado, ou 0 para desativar."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "Agente de usu\u00e1rio (navegador, plataforma e vers\u00f5es de cada um)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Agente de usu\u00e1rio sem vers\u00e3o (navegador e plataforma, mas sem vers\u00f5es \u2013 \u00e9 menos prov\u00e1vel que mude com frequ\u00eancia)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Aceitar cabe\u00e7alho (tipos de conte\u00fado que o navegador do usu\u00e1rio aceita)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Esquema de solicita\u00e7\u00e3o atual, seja HTTP ou HTTPS"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Nome do host do servidor (valor de $config->httpHost)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "Endere\u00e7o IP do usu\u00e1rio (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "Endere\u00e7o IP encaminhado ou cliente do usu\u00e1rio (HTTP_X_FORWARDED_FOR ou HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "N\u00e3o permitir que o usu\u00e1rio pule a entrada do c\u00f3digo quando alguma dessas propriedades for alterada"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "Altera\u00e7\u00f5es de senha, nome, e-mail ou cookie aleat\u00f3rio no navegador do usu\u00e1rio sempre exigir\u00e3o a inser\u00e7\u00e3o do c\u00f3digo no login."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "Al\u00e9m disso, altera\u00e7\u00f5es em quaisquer itens marcados abaixo tamb\u00e9m exigir\u00e3o a inser\u00e7\u00e3o do c\u00f3digo no login."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Estas propriedades formam uma impress\u00e3o digital do navegador do usu\u00e1rio al\u00e9m do cookie aleat\u00f3rio que definimos."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Esta configura\u00e7\u00e3o s\u00f3 se aplica quando a op\u00e7\u00e3o de lembrar navegador\/localiza\u00e7\u00e3o est\u00e1 habilitada."
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Conecte-se"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "Tipo"
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Fun\u00e7\u00f5es"
+        }
+    }
+}

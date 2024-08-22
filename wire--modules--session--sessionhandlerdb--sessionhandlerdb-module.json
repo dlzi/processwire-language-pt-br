@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Marcar esta caixa permitir\u00e1 que os dados sejam exibidos na lista de sess\u00f5es de administra\u00e7\u00e3o."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Rastrear endere\u00e7os IP nos dados da sess\u00e3o?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Rastrear o agente do usu\u00e1rio nos dados da sess\u00e3o?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "O agente do usu\u00e1rio normalmente cont\u00e9m informa\u00e7\u00f5es sobre o navegador que est\u00e1 sendo usado."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Proibir sess\u00f5es paralelas?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Quando ativado, o login bem-sucedido expira todas as outras sess\u00f5es desse usu\u00e1rio em outros dispositivos\/navegadores."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Marcar esta caixa permitir\u00e1 apenas uma \u00fanica sess\u00e3o por vez para um usu\u00e1rio conectado."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Tempo limite de bloqueio da sess\u00e3o (segundos)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Se um bloqueio de banco de dados para a sess\u00e3o n\u00e3o puder ser obtido nestes segundos, um erro \u201c%s\u201d ser\u00e1 enviado, informando ao cliente para tentar novamente em %d segundos."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429: Muitas Solicita\u00e7\u00f5es"
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "A sess\u00e3o de login anterior de \u201c%s\u201d foi removida\/desconectada."
+        }
+    }
+}

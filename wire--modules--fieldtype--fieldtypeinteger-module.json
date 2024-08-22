@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Branco e 0 s\u00e3o equivalentes?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Isso afeta como o ProcessWire combina p\u00e1ginas durante opera\u00e7\u00f5es de busca no banco de dados."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Se 0 e em branco s\u00e3o equivalentes (a op\u00e7\u00e3o Sim), ent\u00e3o uma busca por **field=0** ou **field=\"\"** produzir\u00e1 os mesmos resultados."
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Se n\u00e3o s\u00e3o equivalentes (a op\u00e7\u00e3o N\u00e3o), ent\u00e3o uma busca por **field=0** vai corresponder apenas aos campos que cont\u00eam o valor 0, e **field=\"\"** vai corresponder apenas aos campos que n\u00e3o t\u00eam nenhum valor."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Como outro exemplo, com a op\u00e7\u00e3o Sim **field<1** corresponderia ao valor 0 e nenhum valor, e com a op\u00e7\u00e3o N\u00e3o corresponderia apenas a 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Sim - Branco e 0 s\u00e3o equivalentes"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "N\u00e3o - Branco e 0 t\u00eam significados diferentes"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valor padr\u00e3o"
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Este valor \u00e9 atribu\u00eddo como padr\u00e3o para este campo em p\u00e1ginas sem nenhum valor inserido."
+        }
+    }
+}

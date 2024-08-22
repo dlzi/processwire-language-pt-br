@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldRadios\/InputfieldRadios.module",
+    "textdomain": "wire--modules--inputfield--inputfieldradios--inputfieldradios-module",
+    "translations": {
+        "7041d69f9024a46791714e59812fa68f": {
+            "text": "Bot\u00f5es de R\u00e1dio"
+        },
+        "692fd08ceebbbf5818d492fae7ebe7db": {
+            "text": "Bot\u00f5es de r\u00e1dio para sele\u00e7\u00e3o de um \u00fanico item"
+        }
+    }
+}

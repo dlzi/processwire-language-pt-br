@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Recursos de entrada"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Modo de grade de imagem padr\u00e3o"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "No painel administrativo, a lista de imagens aparecer\u00e1 neste modo por padr\u00e3o. O usu\u00e1rio pode alter\u00e1-lo a qualquer momento clicando nos \u00edcones no canto superior direito do campo."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Se voc\u00ea usou recentemente este campo de imagens, ter\u00e1 que limpar seus cookies antes de ver qualquer altera\u00e7\u00e3o nesta configura\u00e7\u00e3o."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Grade de imagens quadradas"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Grade de imagens proporcionais"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Lista vertical (detalhada)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Sele\u00e7\u00e3o do ponto de foco"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Permite selecionar um ponto de foco arrast\u00e1vel para escolher o assunto de uma imagem. Isso ajuda a gerar cortes n\u00e3o proporcionais."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Uma pr\u00e9via do ponto de foco tamb\u00e9m \u00e9 mostrada quando as imagens est\u00e3o no modo \"Grade de imagens quadradas\"."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Ponto de foco"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Ponto de foco e zoom"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desabilitado"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Dimens\u00f5es m\u00e1ximas da imagem"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Opcionalmente, insira a largura m\u00e1xima e\/ou altura das imagens enviadas. Se especificado, as imagens ser\u00e3o redimensionadas no momento do upload quando excederem a largura ou altura m\u00e1xima. O redimensionamento \u00e9 realizado no momento do upload e, portanto, n\u00e3o afeta nenhuma imagem no sistema ou imagens adicionadas via API."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Aplica-se a imagens JPG, PNG e GIF."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Insira o valor em n\u00famero de pixels ou deixe em branco para n\u00e3o ter limite."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Largura m\u00e1xima para imagens enviadas"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Altura m\u00e1xima para imagens enviadas"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Como redimensionar para dimens\u00f5es m\u00e1ximas"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Usar redimensionamento do lado do cliente permite reduzir o tamanho do arquivo e as dimens\u00f5es antes do upload."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "Ao usar o redimensionamento do lado do cliente, especifique a largura m\u00e1xima *e* a altura m\u00e1xima nos campos acima ou o m\u00e1ximo de megapixels no campo abaixo."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Use o redimensionamento do lado do cliente quando poss\u00edvel"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Use apenas redimensionamento do lado do servidor"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "M\u00e1ximo de megapixels para imagens enviadas"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Isso pode ser usado como uma alternativa \u00e0 largura\/altura m\u00e1xima. Especifique um valor de ponto flutuante."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Aplic\u00e1vel apenas ao redimensionamento do lado do cliente."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Um bom valor para websites \u00e9 1.7, que \u00e9 aproximadamente 1600x1000 pixels, onde 1600 e 1000 podem ser tanto largura quanto altura."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Outros exemplos:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Porcentagem de qualidade de redimensionamento do lado do cliente para JPEGs"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Especifique um n\u00famero entre 10 (menor qualidade\/menor tamanho de arquivo) e 100 (maior qualidade\/maior tamanho de arquivo). O padr\u00e3o \u00e9 90."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Recusar imagens que excedam as dimens\u00f5es m\u00e1ximas?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Se marcado, imagens que excedem a largura\/altura m\u00e1xima (que n\u00e3o podem ser redimensionadas no lado do cliente) ser\u00e3o recusadas em vez de redimensionadas."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Dimens\u00f5es m\u00ednimas da imagem"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opcionalmente, insira a largura e\/ou altura m\u00ednima das imagens enviadas. Se especificado, as imagens que n\u00e3o atenderem a esses m\u00ednimos ser\u00e3o recusadas."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Largura m\u00ednima para imagens enviadas"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Altura m\u00ednima para imagens enviadas"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Trocar dimens\u00f5es m\u00ednimas\/m\u00e1ximas para imagens em retrato?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Se marcado, as dimens\u00f5es m\u00ednimas\/largura e m\u00e1ximas\/largura ser\u00e3o trocadas para imagens retrato para acomodar a propor\u00e7\u00e3o diferente."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Aplica-se apenas a redimensionamentos do lado do servidor."
+        }
+    }
+}

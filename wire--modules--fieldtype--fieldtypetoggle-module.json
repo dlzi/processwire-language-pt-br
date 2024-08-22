@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
+    "translations": {
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Qual valor formatado voc\u00ea deseja que seu campo de altern\u00e2ncia seja?"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "Selecione o valor formatado retornado por %s."
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "Por favor, veja tamb\u00e9m a guia \"Entrada\" para todas as outras configura\u00e7\u00f5es de campo de altern\u00e2ncia."
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "Para todas as op\u00e7\u00f5es acima, a n\u00e3o sele\u00e7\u00e3o \u00e9 sempre representada por uma string em branco."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "Se uma 3\u00aa\/outra op\u00e7\u00e3o estiver habilitada, ela ser\u00e1 representada pelo n\u00famero inteiro 2."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "Quando a formata\u00e7\u00e3o de sa\u00edda de uma p\u00e1gina est\u00e1 desativada, o valor \u00e9 sempre o inteiro 0, 1, 2 (para N\u00e3o, Sim, Outro) ou uma string em branco quando n\u00e3o h\u00e1 sele\u00e7\u00e3o."
+        },
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "**Inteiro:** 0=n\u00e3o, 1=sim (mesmo que sem formata\u00e7\u00e3o)."
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "**Booleano:** Verdadeiro ou falso para estados sim\/n\u00e3o."
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "**String:** Use r\u00f3tulos de texto configurados com configura\u00e7\u00f5es de \u201cEntrada\u201d."
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "**Entidades:** O mesmo que acima (string), mas entidade codificada para sa\u00edda HTML."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "Alternar (Sim\/N\u00e3o)"
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Configur\u00e1vel sim\/n\u00e3o, alternativa de ativa\u00e7\u00e3o\/desativa\u00e7\u00e3o para uma caixa de sele\u00e7\u00e3o, al\u00e9m da op\u00e7\u00e3o \u201coutra\u201d opcional."
+        }
+    }
+}

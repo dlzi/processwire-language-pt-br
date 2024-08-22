@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeFieldsetPage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Campos no conjunto de campos"
+        },
+        "cc50c812a69f0bae59a44a023c8c58b2": {
+            "text": "Defina os campos que s\u00e3o usados por este conjunto de campos. Voc\u00ea tamb\u00e9m pode arrastar e soltar campos na ordem desejada."
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "Conjunto de campos (p\u00e1gina)"
+        },
+        "c1aa12461889e9773f2c053ae68fb817": {
+            "text": "Conjunto de campos com campos isolados em namespace separado (p\u00e1gina), permitindo a reutiliza\u00e7\u00e3o de campos."
+        }
+    }
+}

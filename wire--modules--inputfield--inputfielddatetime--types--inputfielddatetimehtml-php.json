@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeHtml.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimehtml-php",
+    "translations": {
+        "0e8f21f09ae327a89b030e9df934de30": {
+            "text": "Data nativa do navegador HTML5, hora ou ambos"
+        },
+        "3d6b7b2eaab198f0dca6f741d6cd7178": {
+            "text": "Tipo de entrada HTML"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Data"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Hora"
+        },
+        "d060352fa78723b152199ca69e02ff18": {
+            "text": "Ambos data e hora"
+        },
+        "d836d96f45dbb0d871fc892d4a4dc073": {
+            "text": "Passo em dias para entrada de data"
+        },
+        "0ad6f617180d27600edab7be9a079f90": {
+            "text": "Data m\u00ednima permitida"
+        },
+        "62d2ced9bc40c8d0d5bed70b2b32d9e5": {
+            "text": "Data m\u00e1xima permitida"
+        },
+        "d5a7df727e5b8e2f4beae7377e5e00be": {
+            "text": "Passo em segundos para entrada de hora"
+        },
+        "881f6f061eac7055ad209a17121c5130": {
+            "text": "Hora m\u00ednima permitida"
+        },
+        "65a779047df07c9cd6b487739e402ddf": {
+            "text": "Hora m\u00e1xima permitida"
+        }
+    }
+}

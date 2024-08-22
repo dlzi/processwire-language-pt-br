@@ -1,0 +1,90 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModuleInstall.php",
+    "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
+    "translations": {
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Op\u00e7\u00e3o de instala\u00e7\u00e3o do m\u00f3dulo \"%s\""
+        },
+        "ccb108ad977122d69f8bbc7758997ff2": {
+            "text": "Certifique-se de que o diret\u00f3rio \/site\/assets\/cache\/ seja grav\u00e1vel para PHP."
+        },
+        "cfe1ee62b0efc597562d0b78c5196d47": {
+            "text": "Certifique-se de que o diret\u00f3rio de m\u00f3dulos do seu site (\/site\/modules\/) seja grav\u00e1vel para PHP."
+        },
+        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
+            "text": "A classe ZipArchive \u00e9 necess\u00e1ria e seu PHP parece n\u00e3o t\u00ea-la."
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Extra\u00eddo: %s"
+        },
+        "af32834e6517e929e3993eb018b46ac0": {
+            "text": "N\u00e3o foi poss\u00edvel encontrar nenhum arquivo de m\u00f3dulo"
+        },
+        "2a3cd9a18eaf3b274b4fa40068fff003": {
+            "text": "Arquivos copiados com sucesso para o novo diret\u00f3rio:"
+        },
+        "5bb84f541cde4c248e5f6f58ae92c49e": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel copiar arquivos para o novo diret\u00f3rio:"
+        },
+        "5a3527463defe3c1e1ab721c4942f331": {
+            "text": "N\u00e3o foi poss\u00edvel criar o diret\u00f3rio:"
+        },
+        "a7e401f040fc37065b5d7a8b01e5a592": {
+            "text": "N\u00e3o foi poss\u00edvel copiar os arquivos do m\u00f3dulo:"
+        },
+        "82d70ccfc2a2e0bb66507a3f90c4690e": {
+            "text": "N\u00e3o foi poss\u00edvel excluir o diret\u00f3rio do m\u00f3dulo com falha:"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "Por favor note que %s era um link simb\u00f3lico e foi convertido para um diret\u00f3rio normal"
+        },
+        "0e30f791217cbeee87323db58731e58f": {
+            "text": "Backup de %s existente"
+        },
+        "34e8dc0a73d373618c591be38800cd3c": {
+            "text": "Backup restaurado de %s"
+        },
+        "21b1483780050057a84adbf35ec57c05": {
+            "text": "N\u00e3o foi poss\u00edvel concluir o upload"
+        },
+        "e7df9a3e1460bdfcaabe5b2e451a6594": {
+            "text": "Nenhum upload encontrado"
+        },
+        "a4e29333ef852fef776eecdb5b3ac6a1": {
+            "text": "URL de download especificada inv\u00e1lida"
+        },
+        "e830879e542fd52ca82f599ce41b6668": {
+            "text": "Arquivo ZIP baixado: %s (%d bytes)"
+        },
+        "c8d7cc9fd8f6298a8ee52a937c29c97d": {
+            "text": "Seu caminho %s atualmente n\u00e3o \u00e9 grav\u00e1vel."
+        },
+        "58c9ef751665d75133cd9f06c2e99f71": {
+            "text": "Ele deve ser tornado grav\u00e1vel pelo ProcessWire antes que voc\u00ea possa habilitar esta op\u00e7\u00e3o de instala\u00e7\u00e3o de m\u00f3dulo."
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "para habilitar sempre"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "temporariamente"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "para habilitar apenas no modo de depura\u00e7\u00e3o"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Para habilitar, edite o arquivo %1$s e especifique: %2$s ...ou... %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Esta op\u00e7\u00e3o de instala\u00e7\u00e3o est\u00e1 configurada para estar dispon\u00edvel somente no modo de depura\u00e7\u00e3o."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Esta op\u00e7\u00e3o de instala\u00e7\u00e3o est\u00e1 atualmente desativada."
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "Arquivo %d extra\u00eddo"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "%d arquivos extra\u00eddos"
+        }
+    }
+}

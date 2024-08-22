@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[branco]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Por favor, configure este campo com uma sele\u00e7\u00e3o de modelo antes de us\u00e1-lo."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Por favor, insira uma ou mais colunas nas configura\u00e7\u00f5es do campo antes de us\u00e1-lo."
+        },
+        "17a640fc3f331b66e94bbfaee12f1f08": {
+            "text": "Itens podem ser adicionados ou exclu\u00eddos apenas ao editar a vers\u00e3o ao vivo."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Filhos foram encontrados e podem ser adicionados a esta tabela. Marque a caixa ao lado dos que voc\u00ea gostaria de adicionar."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Selecionar tudo"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Adicionado %d p\u00e1gina(s) existente(s) \u00e0 tabela"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Campos da tabela para exibi\u00e7\u00e3o no admin"
+        },
+        "d074a1c108c36f5cd1ad08b7b1af956f": {
+            "text": "Digite os nomes dos campos (1 por linha) que voc\u00ea deseja exibir como colunas na tabela."
+        },
+        "b4defb37338400f9b9d8fea43ce91d5d": {
+            "text": "Para especificar uma largura de coluna para o campo, especifique \"nome_do_campo=30\" onde \"30\" \u00e9 a largura (em porcentagem) da coluna."
+        },
+        "13d4ce65721e3a572b5f089398240c50": {
+            "text": "Ao especificar larguras, fa\u00e7a o total de todas as colunas somar 100."
+        },
+        "8da668acfc6b5861c2d277e8045dabb8": {
+            "text": "Voc\u00ea pode especificar qualquer campo nativo ou personalizado."
+        },
+        "ef69a322821bbe5d9851f05bd132068d": {
+            "text": "Voc\u00ea tamb\u00e9m pode usar subcampos (campo.subcampo) com campos que cont\u00eam v\u00e1rias propriedades, como refer\u00eancias de p\u00e1gina."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Os campos personalizados atribu\u00eddos aos modelos selecionados incluem o seguinte:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Para ver uma lista de poss\u00edveis campos personalizados aqui, selecione um modelo na aba Detalhes, Salve e volte aqui."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Formato Autom\u00e1tico de Nome de P\u00e1gina"
+        },
+        "a5049200083d5f9dc1767587f109869f": {
+            "text": "Quando preenchido, as p\u00e1ginas ser\u00e3o criadas automaticamente usando este formato de nome sempre que um usu\u00e1rio clicar no bot\u00e3o \"Adicionar Novo\"."
+        },
+        "50716328038d96ec903e9aa46536fba9": {
+            "text": "Se deixado em branco, o usu\u00e1rio ser\u00e1 solicitado a inserir um nome para a p\u00e1gina antes de ela ser criada."
+        },
+        "0c0b6a3b9dd7e6b8885490d74f2306e7": {
+            "text": "Se o formato do nome contiver caracteres n\u00e3o alfanum\u00e9ricos, ele ser\u00e1 considerado um formato [data PHP](%s)."
+        },
+        "6fd483af216b700d4e5a1cbaecfc170f": {
+            "text": "Se contiver apenas caracteres alfanum\u00e9ricos, ser\u00e1 usado diretamente, com um n\u00famero anexado ao final (quando necess\u00e1rio) para garantir exclusividade."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Exemplo: **Ymd:His** \u00e9 um bom formato de nome para nomes de p\u00e1gina baseados em data\/hora."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Comportamento da janela de edi\u00e7\u00e3o modal"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Fechar automaticamente ao salvar (padr\u00e3o)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Mantenha a janela aberta, feche manualmente"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: Tabela de P\u00e1gina"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Campo de entrada para acompanhar FieldtypePageTable"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nome"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Criado"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Publicado"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modificado por"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Criado por"
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Caminho"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Modelo"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Pai"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Crian\u00e7as"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Adicionar novo"
+        }
+    }
+}
