@@ -28,4 +28,4 @@ Brazilian Portuguese (pt-BR) translation files for ProcessWire 3.x
 ### Language Pack Support
 
 - **Download** this language pack from the [ProcessWire Modules Directory](https://modules.processwire.com/modules/brazilian/)
-- **Discuss** your ideas at the [ProcessWire Forum](https://processwire.com/talk/topic/24342-russian-ru-ru-maintained/)
+- **Discuss** your ideas at the [ProcessWire Forum](https://processwire.com/talk/topic/)
